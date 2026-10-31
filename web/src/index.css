@@ -1,0 +1,65 @@
+:root {
+  --primary-color: #0d6efd;
+  --success-color: #198754;
+  --warning-color: #ffc107;
+  --danger-color: #dc3545;
+  --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f4f6f9;
+  color: #212529;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.badge-slab {
+  font-size: 0.85rem;
+  padding: 0.4em 0.8em;
+  border-radius: 20px;
+}
+
+.slab-progress {
+  height: 14px;
+  border-radius: 7px;
+  background-color: #e9ecef;
+}
+
+.canvas-container {
+  width: 100%;
+  height: 380px;
+  background: radial-gradient(circle at center, #2a2e39 0%, #171922 100%);
+  border-radius: 12px;
+  overflow: hidden;
+  position: relative;
+}
+
+.chat-bubble-user {
+  background-color: #0d6efd;
+  color: #fff;
+  border-radius: 16px 16px 0 16px;
+  padding: 10px 14px;
+  max-width: 80%;
+  align-self: flex-end;
+}
+
+.chat-bubble-ai {
+  background-color: #ffffff;
+  color: #212529;
+  border-radius: 16px 16px 16px 0;
+  padding: 12px 16px;
+  max-width: 85%;
+  align-self: flex-start;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
