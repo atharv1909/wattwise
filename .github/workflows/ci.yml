@@ -48,3 +48,4 @@ jobs:
       - name: Build React Frontend
         working-directory: ./web
         run: npm run build
+

@@ -73,3 +73,4 @@ export async function fetchAdminStats() {
   const res = await fetch(`${API_BASE}/admin/stats`);
   return res.json();
 }
+

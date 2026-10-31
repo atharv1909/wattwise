@@ -17,10 +17,12 @@ build/
 .env.test.local
 .env.production.local
 
-# Large Raw Datasets (>500MB or downloaded archives)
+# Large Raw Datasets (>50MB or downloaded archives)
 data/*.txt
 data/*.zip
 *.zip
+data/sgcc/data set.csv
+data/sgcc/*.zip
 
 # Logs
 npm-debug.log*

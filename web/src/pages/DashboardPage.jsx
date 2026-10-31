@@ -47,8 +47,8 @@ export default function DashboardPage() {
           </p>
         </div>
 
-        {/* Real Benchmark vs Demo Switcher */}
-        <div className="btn-group bg-white p-1 rounded-pill shadow-sm" role="group">
+        {/* Real Benchmark vs Kaggle SGCC vs Demo Switcher */}
+        <div className="btn-group bg-white p-1 rounded-pill shadow-sm flex-wrap" role="group">
           <button
             type="button"
             className={`btn btn-sm rounded-pill px-3 ${datasetSource === 'demo' ? 'btn-primary' : 'btn-light'}`}
@@ -61,7 +61,21 @@ export default function DashboardPage() {
             className={`btn btn-sm rounded-pill px-3 ${datasetSource === 'real' ? 'btn-primary' : 'btn-light'}`}
             onClick={() => setDatasetSource('real')}
           >
-            <i className="bi bi-database-check me-1"></i> Real Measured Benchmark (UCI)
+            <i className="bi bi-database-check me-1"></i> UCI Real Measured
+          </button>
+          <button
+            type="button"
+            className={`btn btn-sm rounded-pill px-3 ${datasetSource === 'sgcc_normal' ? 'btn-primary' : 'btn-light'}`}
+            onClick={() => setDatasetSource('sgcc_normal')}
+          >
+            <i className="bi bi-check2-circle me-1"></i> Kaggle SGCC (Normal)
+          </button>
+          <button
+            type="button"
+            className={`btn btn-sm rounded-pill px-3 ${datasetSource === 'sgcc_theft' ? 'btn-danger text-white' : 'btn-light'}`}
+            onClick={() => setDatasetSource('sgcc_theft')}
+          >
+            <i className="bi bi-exclamation-diamond me-1"></i> Kaggle SGCC (Theft/Anomaly)
           </button>
         </div>
       </div>
@@ -180,7 +194,7 @@ export default function DashboardPage() {
         <div className="alert alert-warning p-3 rounded-3 shadow-sm mb-4">
           <h6 className="fw-bold text-dark mb-1">
             <i className="bi bi-exclamation-triangle-fill text-warning me-2"></i>
-            Consumption Spikes Detected in Reading History
+            Consumption Spikes &amp; Anomaly Signals Detected
           </h6>
           <div className="small text-muted mb-2">
             Automated Z-score and rolling baseline analysis flagged {forecast.anomalies.length} anomalous daily interval(s):

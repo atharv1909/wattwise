@@ -90,3 +90,4 @@ All calculations are tested against genuine past bills from Maharashtra:
 ## 6. Regulatory Citations
 - **MERC Order:** Maharashtra Electricity Regulatory Commission Order Case No. 226 of 2022 / LT-I Residential Tariff Schedule.
 - **BEE Standards:** Bureau of Energy Efficiency (BEE) Standards for Inverter Air Conditioners (ISEER) and Frost-Free Refrigerators (2024).
+

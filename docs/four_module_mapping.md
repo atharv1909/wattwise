@@ -38,3 +38,4 @@
 | **Case 3: July 2024 (Injected Error)** | 210 units | ₹3,550.00 | ₹2,504.00 | **Flagged (Mismatch detected)** | Overcharged by +₹1,046.00 due to improper surcharge or commercial tariff tier application. |
 | **Case 4: 0 Units (Boundary)** | 0 units | ₹148.00 | ₹148.00 | **Passed** | Fixed charge ₹128.00 + 16% duty = ₹148.00. |
 | **Case 5: Exactly 100 Units** | 100 units | ₹849.00 | ₹849.00 | **Passed** | Stays strictly within Slab 1 (₹4.41/unit). |
+

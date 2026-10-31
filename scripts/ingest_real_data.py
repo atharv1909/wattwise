@@ -75,3 +75,4 @@ def process_daily_aggregations(sample_days=60):
 if __name__ == "__main__":
     if download_uci_dataset():
         process_daily_aggregations()
+

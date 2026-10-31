@@ -5,13 +5,13 @@ const path = require('path');
 const { forecastMonthEnd } = require('../services/forecast');
 const { getStore } = require('../config/db');
 
-// Helper to load real CSV readings
-function loadRealReadings() {
-  const csvPath = path.join(__dirname, '..', '..', '..', 'data', 'real_daily_readings.csv');
+// Helper to load CSV readings by relative filename
+function loadCsvReadings(filename) {
+  const csvPath = path.join(__dirname, '..', '..', '..', 'data', filename);
   if (!fs.existsSync(csvPath)) return null;
 
   const content = fs.readFileSync(csvPath, 'utf-8');
-  const lines = content.trim().split('\n').slice(1); // skip header
+  const lines = content.trim().split('\n').slice(1);
   return lines.map(line => {
     const [date, units] = line.split(',');
     return {
@@ -21,7 +21,7 @@ function loadRealReadings() {
   }).filter(r => !isNaN(r.daily_units));
 }
 
-// GET /api/v1/readings?source=real|demo
+// GET /api/v1/readings?source=demo|real|sgcc_normal|sgcc_theft
 router.get('/', (req, res) => {
   const source = req.query.source || 'demo';
   const store = getStore();
@@ -30,10 +30,22 @@ router.get('/', (req, res) => {
   let datasetLabel = 'Seeded Household Profile (Nagpur 2BHK)';
 
   if (source === 'real') {
-    const realData = loadRealReadings();
+    const realData = loadCsvReadings('real_daily_readings.csv');
     if (realData && realData.length > 0) {
-      readingsData = realData.slice(0, 30); // 30-day billing cycle slice of genuine measured data
+      readingsData = realData.slice(0, 30);
       datasetLabel = 'Real Measured Household Power Dataset (UCI Benchmark)';
+    }
+  } else if (source === 'sgcc_normal') {
+    const normalData = loadCsvReadings('sgcc_normal_daily.csv');
+    if (normalData && normalData.length > 0) {
+      readingsData = normalData;
+      datasetLabel = 'Kaggle SGCC Normal Consumer (23,741 Benchmark Sample)';
+    }
+  } else if (source === 'sgcc_theft') {
+    const theftData = loadCsvReadings('sgcc_theft_daily.csv');
+    if (theftData && theftData.length > 0) {
+      readingsData = theftData;
+      datasetLabel = 'Kaggle SGCC Flagged Theft/Anomaly Consumer (2,122 Benchmark Sample)';
     }
   }
 

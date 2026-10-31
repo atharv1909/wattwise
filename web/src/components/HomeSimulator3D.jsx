@@ -220,3 +220,4 @@ export default function HomeSimulator3D({ appliances = [], onSelectAppliance }) 
     </div>
   );
 }
+
