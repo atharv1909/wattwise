@@ -1,0 +1,781 @@
+ConsumerID,ConsumerType,GroundTruthLabel,TheftFlag,Date,Daily_kWh,InspectionOutcome
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,0.0,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,1183.8,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,1190.4,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,1183.8,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,0.0,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,1154.4,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,1166.4,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,1183.8,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,1169.4,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,1174.2,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,1228.2,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,1183.8,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,1194.6,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,1154.4,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,1129.8,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,1103.4,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,1099.8,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,1158.6,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,0.0,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,1072.8,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,1090.8,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,1090.2,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,1101.0,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,1079.4,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,1121.4,Normal Technical Loss (~8-10%)
+2952491E940C9040B188B3C9095910D6,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,1145.4,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,581.88,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,582.45,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,582.69,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,656.26,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,668.23,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,710.57,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,686.93,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,653.95,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,680.88,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,738.35,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,695.04,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,697.44,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,708.26,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,742.05,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,720.73,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,695.43,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,628.68,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,661.61,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,728.51,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,685.44,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,696.79,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,727.92,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,726.59,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,671.9,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,679.77,Normal Technical Loss (~8-10%)
+58A9AA93B0455CE70D447B13CAF9876E,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,629.39,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,575.7,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,492.0,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,430.5,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,527.7,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,577.5,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,504.0,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,464.7,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,387.6,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,499.8,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,570.6,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,0.0,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,477.6,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,527.7,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,543.3,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,672.0,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,589.5,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,568.2,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,574.8,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,572.1,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,589.5,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,660.6,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,734.7,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,638.7,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,521.1,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,558.0,Normal Technical Loss (~8-10%)
+30C62896BD4C8E9C95323A6867974C18,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,531.6,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,426.64,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,434.28,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,461.78,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,427.63,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,444.75,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,443.08,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,383.86,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,395.36,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,473.93,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,486.43,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,448.99,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,454.94,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,428.07,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,426.34,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,432.77,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,401.74,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,390.6,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,371.43,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,406.27,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,417.96,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,393.91,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,370.46,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,352.92,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,0.0,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,0.0,Normal Technical Loss (~8-10%)
+E32A293853BF871F058FAFB707D4C183,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,387.36,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,435.6,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,464.2,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,352.0,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,350.6,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,397.2,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,366.6,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,293.4,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,337.2,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,311.4,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,362.6,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,360.0,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,352.6,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,397.2,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,406.8,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,360.4,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,336.0,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,381.4,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,414.2,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,379.2,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,429.4,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,454.8,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,444.8,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,508.8,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,446.4,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,388.8,Normal Technical Loss (~8-10%)
+DB57CB0C40DC400C6D3365E306280B79,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,382.4,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,338.6,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,308.2,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,308.7,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,328.7,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,335.7,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,315.9,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,322.3,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,343.7,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,305.0,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,316.6,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,346.8,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,353.3,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,325.6,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,338.1,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,329.5,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,725.5,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,826.5,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,783.1,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,818.4,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,793.7,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,781.1,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,770.1,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,796.0,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,780.9,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,806.5,Normal Technical Loss (~8-10%)
+E366A01D354E862F928E723201718E0D,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,827.5,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,316.8,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,324.8,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,306.4,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,309.6,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,288.0,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,303.2,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,308.0,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,299.2,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,296.8,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,304.8,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,299.2,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,302.4,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,303.2,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,298.4,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,296.0,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,297.6,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,300.8,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,287.2,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,284.8,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,300.0,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,319.2,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,340.8,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,340.8,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,339.2,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,339.2,Normal Technical Loss (~8-10%)
+3EAD6E3B0349CDF3DA50036BDA8D3526,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,330.4,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,143.75,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,156.97,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,113.64,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,108.52,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,134.04,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,111.04,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,150.55,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,155.85,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,174.79,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,164.55,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,145.15,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,206.29,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,361.5,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,273.46,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,286.66,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,252.63,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,261.45,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,183.63,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,226.63,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,244.61,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,242.22,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,299.71,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,235.59,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,171.13,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,164.26,Normal Technical Loss (~8-10%)
+4205BD81A160815DFFF2EC4EA72D2A77,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,172.21,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,271.4,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,259.8,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,277.4,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,268.2,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,269.8,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,269.4,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,270.2,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,270.6,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,278.4,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,284.0,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,285.4,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,287.0,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,280.0,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,268.4,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,285.4,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,285.6,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,266.6,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,285.4,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,272.2,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,284.0,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,264.4,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,274.6,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,265.0,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,273.8,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,272.2,Normal Technical Loss (~8-10%)
+82B5C45A4D4CA08B4AFE134A29ED33B3,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,283.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,379.27,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,256.32,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,302.75,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,263.97,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,258.08,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,304.43,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,254.89,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,263.5,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,252.24,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,323.86,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,0.0,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,307.46,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,289.62,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,279.29,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,268.17,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,259.37,Normal Technical Loss (~8-10%)
+B7166CB3F6008392C3EA0061C6B1C5F0,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,250.6,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,0.0,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,241.89,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,219.04,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,196.73,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,263.29,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,241.5,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,239.52,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,266.63,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,215.42,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,250.19,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,261.16,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,221.45,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,216.97,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,250.36,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,260.68,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,227.92,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,236.61,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,0.0,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,0.0,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,227.83,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,225.7,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,226.55,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,212.56,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,202.78,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,197.95,Normal Technical Loss (~8-10%)
+E00F9C5061BFC7C81AEDA65DB0381B21,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,213.47,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,239.21,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,244.63,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,244.42,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,232.78,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,237.03,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,229.45,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,237.32,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,237.26,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,265.8,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,273.63,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,281.06,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,277.85,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,156.52,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,204.42,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,277.42,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,212.76,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,245.57,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,205.73,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,258.98,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,233.07,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,214.33,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,219.93,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,255.07,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,248.04,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,213.32,Normal Technical Loss (~8-10%)
+D69F76AF13C08FDF654216FAECCE9ACE,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,261.77,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,167.06,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,151.82,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,170.61,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,174.31,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,168.43,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,168.82,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,181.68,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,179.95,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,190.42,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,195.84,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,188.65,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,187.53,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,188.2,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,199.87,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,202.87,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,193.8,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,172.22,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,167.34,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,164.16,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,123.44,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,53.39,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,105.89,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,113.82,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,98.36,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,94.09,Normal Technical Loss (~8-10%)
+0133CDA88D348746B633C83EE580645F,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,39.81,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,262.29,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,152.83,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,190.21,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,235.49,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,211.5,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,156.49,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,158.42,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,150.66,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,140.64,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,176.42,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,233.06,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,189.57,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,166.79,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,190.48,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,210.22,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,207.35,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,250.41,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,228.27,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,209.83,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,226.65,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,204.32,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,214.71,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,234.63,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,242.08,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,242.17,Normal Technical Loss (~8-10%)
+F292F53A161974F0A2D6E906479E378B,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,224.51,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/01/2014,218.6,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/02/2014,204.22,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/03/2014,167.92,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/04/2014,189.77,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/05/2014,185.68,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/06/2014,187.84,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/07/2014,201.62,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/08/2014,184.31,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/09/2014,178.97,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/10/2014,187.38,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/11/2014,178.48,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,01/12/2014,193.54,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/13/2014,176.47,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/14/2014,184.45,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/15/2014,191.59,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/16/2014,199.54,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/17/2014,217.57,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/18/2014,205.6,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/19/2014,186.03,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/20/2014,189.36,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/21/2014,183.42,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/22/2014,168.2,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/23/2014,170.48,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/24/2014,206.19,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/25/2014,187.75,Normal Technical Loss (~8-10%)
+23CC9AE5DE5785D22DE62753847CF416,Honest Smart Meter Consumer,Honest (No Theft),0,1/26/2014,185.64,Normal Technical Loss (~8-10%)
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,2401.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,2500.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,2674.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,2432.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,2231.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,1942.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,2752.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,1244.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,2069.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,2360.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,2370.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,1140.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,1051.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,3167.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,2155.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,2423.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,343.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,2369.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,1774.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,2089.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,1300.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,2419.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,2462.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,1177.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,340.0,Flagged Meter Shunt / Unauthorized Tap
+A0E791400CF1C48C43DC26A68227854A,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,2272.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,3318.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,282.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,540.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,5670.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,4854.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,4170.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,4848.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,3546.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,4416.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,3966.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,4392.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,3414.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,612.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,2802.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,3960.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,3654.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,3306.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,3258.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,3876.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,3228.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,3054.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,3840.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,1422.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,1956.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,1380.0,Flagged Meter Shunt / Unauthorized Tap
+B415F931D3BFB17ACEF48BC648B04FC2,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,96.0,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,1020.8,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,1097.4,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,1377.4,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,1408.8,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,1414.8,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,1387.4,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,1444.6,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,1325.0,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,1461.6,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,1253.2,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,1313.0,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,1476.8,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,1012.2,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,1419.2,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,1383.2,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,1540.6,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,1301.2,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,1351.4,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,1214.6,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,1285.4,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,1279.6,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,1188.6,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,1362.6,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,1286.0,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,1267.6,Flagged Meter Shunt / Unauthorized Tap
+DE8E1EAE4E578C0CEF92D1E23499888F,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,1444.0,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,1445.7,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,1348.2,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,1281.9,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,1276.35,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,1219.95,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,1289.85,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,1298.55,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,1326.15,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,1410.6,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,1376.7,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,1258.05,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,1064.25,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,1035.9,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,1006.65,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,1154.4,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,1417.2,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,1321.05,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,1398.6,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,1331.85,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,1392.9,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,1213.2,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,1463.1,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,1405.5,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,1240.05,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,1190.25,Flagged Meter Shunt / Unauthorized Tap
+DBEED8FD0E7F5E0D1BAF1F86F4983459,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,1455.45,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,18.75,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,867.6,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,1013.4,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,927.0,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,1023.45,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,20.4,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,813.9,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,893.4,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,922.05,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,1038.6,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,22.2,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,19.2,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,929.25,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,811.05,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,25.2,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,829.35,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,835.8,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,908.55,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,944.7,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,21.6,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,14.7,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,14.85,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,16.8,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,4.35,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,4.35,Flagged Meter Shunt / Unauthorized Tap
+9495BA31FC50C86D827FE1D5B1D8773B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,2.85,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,592.5,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,711.3,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,723.3,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,736.9,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,798.6,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,215.3,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+1BC425A74948B48CED2DD171224E219C,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,674.72,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,720.87,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,569.51,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,706.73,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,735.65,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,741.6,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,580.15,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,603.62,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,675.58,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,631.21,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,653.91,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,618.7,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,673.55,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,661.8,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,661.47,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,655.46,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,631.71,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,643.75,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,674.75,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,598.01,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,675.45,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,685.81,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,731.9,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,699.72,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,512.78,Flagged Meter Shunt / Unauthorized Tap
+231B2821E4D98BBFF9E3E111D391ECF5,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,653.08,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,736.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,676.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,1140.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,780.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,776.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,768.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,1676.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,1216.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,620.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,1528.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,960.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,1144.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,768.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,592.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,308.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,340.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,328.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,284.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,280.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,324.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,284.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,276.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,332.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,292.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,332.0,Flagged Meter Shunt / Unauthorized Tap
+E24AC6F28F330CCDBAEAFCD82E86609B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,776.0,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,133.95,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,436.05,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,558.3,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,610.2,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,632.1,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,638.55,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,581.55,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,595.05,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,572.4,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,615.75,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,607.95,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,590.85,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,588.6,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,583.05,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,614.85,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,610.05,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,603.75,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,587.85,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,620.55,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,600.6,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,585.6,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,599.85,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,591.15,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,498.9,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,394.35,Flagged Meter Shunt / Unauthorized Tap
+B863662FFE6AF2272F5E9749C6CFC0AC,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,422.7,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,519.8,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,1104.4,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,1494.2,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,1544.8,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,1554.6,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,1777.0,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,1763.6,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,1779.2,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,1898.6,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,1759.6,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,618.4,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,595.2,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,601.8,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,542.0,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,543.2,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,504.8,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,503.2,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,506.8,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,487.4,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,498.8,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,0.0,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,426.0,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,609.0,Flagged Meter Shunt / Unauthorized Tap
+CC20362FC534A57BB37B84F009106947,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,1154.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,312.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,504.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,468.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,282.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,300.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,510.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,516.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,480.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,528.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,504.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,300.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,276.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,510.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,528.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,516.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,534.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,492.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,264.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,270.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,492.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,534.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,534.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,528.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,498.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,288.0,Flagged Meter Shunt / Unauthorized Tap
+67401768ADEDE27B28C2FC9B397AF0BA,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,510.0,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,29.9,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,55.78,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,45.65,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,58.17,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,36.21,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,117.94,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,215.28,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,362.25,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,454.26,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,361.96,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,476.34,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,486.04,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,503.43,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,510.47,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,492.33,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,376.45,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,251.44,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,247.07,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,93.4,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,54.95,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,23.85,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,29.55,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,24.51,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,22.01,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,14.5,Flagged Meter Shunt / Unauthorized Tap
+9575A8D9320263231F17ADDB8E01A093,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,17.67,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,9.01,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,8.28,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,6.6,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,6.82,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,7.65,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,7.51,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,6.3,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,6.24,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,6.6,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,5.7,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,7.12,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,6.56,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,92713.9,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,405.09,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,286.48,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,234.44,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,385.52,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,365.73,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,153.24,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,145.34,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,109.12,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,91.09,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,98.17,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,77.32,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,56.05,Flagged Meter Shunt / Unauthorized Tap
+1B173C1A3A2EEF026D089EE150A5AA51,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,15.27,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,219.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,204.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,126.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,228.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,246.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,282.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,213.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,279.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,279.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,288.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,213.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,273.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,360.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,351.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,432.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,354.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,315.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,312.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,192.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,174.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,210.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,231.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,201.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,204.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,270.0,Flagged Meter Shunt / Unauthorized Tap
+A87D17DE90DA14049F54A9400B6D2E1B,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,186.0,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/01/2014,84.51,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/02/2014,331.78,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/03/2014,347.4,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/04/2014,346.08,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/05/2014,271.4,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/06/2014,278.22,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/07/2014,296.37,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/08/2014,342.76,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/09/2014,314.74,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/10/2014,273.7,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/11/2014,313.05,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,01/12/2014,258.14,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/13/2014,244.82,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/14/2014,322.03,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/15/2014,317.01,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/16/2014,274.61,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/17/2014,283.73,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/18/2014,237.28,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/19/2014,152.77,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/20/2014,171.67,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/21/2014,162.74,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/22/2014,150.43,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/23/2014,140.32,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/24/2014,221.52,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/25/2014,205.48,Flagged Meter Shunt / Unauthorized Tap
+3CC8959A5C90F8B6F58242FEB03796B9,Tampered / Bypassed Meter Consumer,Non-Technical Loss (Theft),1,1/26/2014,13.59,Flagged Meter Shunt / Unauthorized Tap

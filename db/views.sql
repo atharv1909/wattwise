@@ -60,26 +60,33 @@ SELECT * FROM RankedAppliances;
 
 -- 3. View: Daily Meter Reading Deltas & Cumulative Progression
 CREATE OR REPLACE VIEW v_daily_readings_analysis AS
-SELECT 
-  mr.id,
-  mr.household_id,
-  h.name AS household_name,
-  mr.reading_date,
-  mr.cumulative_kwh,
-  -- Window function: Compute daily units consumed using LAG
-  COALESCE(
-    mr.daily_units, 
-    mr.cumulative_kwh - LAG(mr.cumulative_kwh, 1) OVER(PARTITION BY mr.household_id ORDER BY mr.reading_date)
-  ) AS calculated_daily_kwh,
-  -- 7-day moving average of daily consumption
-  AVG(
+WITH DailyStep AS (
+  SELECT 
+    mr.id,
+    mr.household_id,
+    h.name AS household_name,
+    mr.reading_date,
+    mr.cumulative_kwh,
     COALESCE(
       mr.daily_units, 
       mr.cumulative_kwh - LAG(mr.cumulative_kwh, 1) OVER(PARTITION BY mr.household_id ORDER BY mr.reading_date)
-    )
-  ) OVER(PARTITION BY mr.household_id ORDER BY mr.reading_date ROWS BETWEEN 6 PRECEDING AND CURRENT ROW) AS moving_avg_7day_kwh
-FROM meter_readings mr
-JOIN households h ON mr.household_id = h.id;
+    ) AS calculated_daily_kwh
+  FROM meter_readings mr
+  JOIN households h ON mr.household_id = h.id
+)
+SELECT 
+  id,
+  household_id,
+  household_name,
+  reading_date,
+  cumulative_kwh,
+  calculated_daily_kwh,
+  AVG(calculated_daily_kwh) OVER(
+    PARTITION BY household_id 
+    ORDER BY reading_date 
+    ROWS BETWEEN 6 PRECEDING AND CURRENT ROW
+  ) AS moving_avg_7day_kwh
+FROM DailyStep;
 
 -- 4. View: Bill Auditor Summary (Mismatch rate analysis for evaluators)
 CREATE OR REPLACE VIEW v_bill_audit_summary AS

@@ -1,0 +1,901 @@
+RecordID,HouseholdID,Archetype,BillMonth,Year,ApplianceID,ApplianceName,Category,Consumption_kWh,SharePercentage,EstimatedCost_INR,CarbonFootprint_kgCO2,PotentialSavingWith5Star_INR,IsEnergyVampire
+1,1,2BHK,2023-01,2023,1,Split AC (Master Bed),Cooling,44.7,21.05,488.12,36.7,136.67,No
+2,1,2BHK,2023-01,2023,2,Ceiling Fans (x2),Fans,55.9,26.32,610.43,45.8,378.47,Yes
+3,1,2BHK,2023-01,2023,4,Refrigerator,Refrigeration,35.6,16.75,388.75,29.2,85.53,No
+4,1,2BHK,2023-01,2023,5,Water Geyser,Heating,50.8,23.92,554.74,41.7,0.0,No
+5,1,2BHK,2023-01,2023,6,Smart TV,Entertainment,10.2,4.78,111.38,8.4,0.0,No
+6,1,2BHK,2023-01,2023,8,LED Lights,Lighting,7.6,3.59,82.99,6.2,0.0,No
+7,1,2BHK,2023-01,2023,7,Wi-Fi Router,Always-On,7.6,3.59,82.99,6.2,0.0,No
+8,1,2BHK,2023-02,2023,1,Split AC (Master Bed),Cooling,50.3,21.05,560.85,41.2,157.04,Yes
+9,1,2BHK,2023-02,2023,2,Ceiling Fans (x2),Fans,62.8,26.32,700.22,51.5,434.14,Yes
+10,1,2BHK,2023-02,2023,4,Refrigerator,Refrigeration,40.0,16.75,446.0,32.8,98.12,No
+11,1,2BHK,2023-02,2023,5,Water Geyser,Heating,57.1,23.92,636.67,46.8,0.0,No
+12,1,2BHK,2023-02,2023,6,Smart TV,Entertainment,11.4,4.78,127.11,9.3,0.0,No
+13,1,2BHK,2023-02,2023,8,LED Lights,Lighting,8.6,3.59,95.89,7.1,0.0,No
+14,1,2BHK,2023-02,2023,7,Wi-Fi Router,Always-On,8.6,3.59,95.89,7.1,0.0,No
+15,1,2BHK,2023-03,2023,1,Split AC (Master Bed),Cooling,161.0,44.2,2033.43,132.0,569.36,Yes
+16,1,2BHK,2023-03,2023,2,Ceiling Fans (x2),Fans,89.4,24.55,1129.12,73.3,700.05,Yes
+17,1,2BHK,2023-03,2023,4,Refrigerator,Refrigeration,56.9,15.62,718.65,46.7,158.1,Yes
+18,1,2BHK,2023-03,2023,5,Water Geyser,Heating,16.3,4.46,205.87,13.4,0.0,No
+19,1,2BHK,2023-03,2023,6,Smart TV,Entertainment,16.3,4.46,205.87,13.4,0.0,No
+20,1,2BHK,2023-03,2023,8,LED Lights,Lighting,12.2,3.35,154.09,10.0,0.0,No
+21,1,2BHK,2023-03,2023,7,Wi-Fi Router,Always-On,12.2,3.35,154.09,10.0,0.0,No
+22,1,2BHK,2023-04,2023,1,Split AC (Master Bed),Cooling,217.7,58.47,2773.5,178.5,776.58,Yes
+23,1,2BHK,2023-04,2023,2,Ceiling Fans (x2),Fans,68.0,18.27,866.32,55.8,537.12,Yes
+24,1,2BHK,2023-04,2023,4,Refrigerator,Refrigeration,43.3,11.63,551.64,35.5,121.36,No
+25,1,2BHK,2023-04,2023,5,Water Geyser,Heating,12.4,3.32,157.98,10.2,0.0,No
+26,1,2BHK,2023-04,2023,6,Smart TV,Entertainment,12.4,3.32,157.98,10.2,0.0,No
+27,1,2BHK,2023-04,2023,8,LED Lights,Lighting,9.3,2.49,118.48,7.6,0.0,No
+28,1,2BHK,2023-04,2023,7,Wi-Fi Router,Always-On,9.3,2.49,118.48,7.6,0.0,No
+29,1,2BHK,2023-05,2023,1,Split AC (Master Bed),Cooling,217.0,58.47,2760.24,177.9,772.87,Yes
+30,1,2BHK,2023-05,2023,2,Ceiling Fans (x2),Fans,67.8,18.27,862.42,55.6,534.7,Yes
+31,1,2BHK,2023-05,2023,4,Refrigerator,Refrigeration,43.2,11.63,549.5,35.4,120.89,No
+32,1,2BHK,2023-05,2023,5,Water Geyser,Heating,12.3,3.32,156.46,10.1,0.0,No
+33,1,2BHK,2023-05,2023,6,Smart TV,Entertainment,12.3,3.32,156.46,10.1,0.0,No
+34,1,2BHK,2023-05,2023,8,LED Lights,Lighting,9.2,2.49,117.02,7.5,0.0,No
+35,1,2BHK,2023-05,2023,7,Wi-Fi Router,Always-On,9.2,2.49,117.02,7.5,0.0,No
+36,1,2BHK,2023-06,2023,1,Split AC (Master Bed),Cooling,217.9,58.47,2776.05,178.7,777.29,Yes
+37,1,2BHK,2023-06,2023,2,Ceiling Fans (x2),Fans,68.1,18.27,867.59,55.8,537.91,Yes
+38,1,2BHK,2023-06,2023,4,Refrigerator,Refrigeration,43.3,11.63,551.64,35.5,121.36,No
+39,1,2BHK,2023-06,2023,5,Water Geyser,Heating,12.4,3.32,157.98,10.2,0.0,No
+40,1,2BHK,2023-06,2023,6,Smart TV,Entertainment,12.4,3.32,157.98,10.2,0.0,No
+41,1,2BHK,2023-06,2023,8,LED Lights,Lighting,9.3,2.49,118.48,7.6,0.0,No
+42,1,2BHK,2023-06,2023,7,Wi-Fi Router,Always-On,9.3,2.49,118.48,7.6,0.0,No
+43,1,2BHK,2023-07,2023,1,Split AC (Master Bed),Cooling,114.0,44.2,1288.2,93.5,360.7,Yes
+44,1,2BHK,2023-07,2023,2,Ceiling Fans (x2),Fans,63.3,24.55,715.29,51.9,443.48,Yes
+45,1,2BHK,2023-07,2023,4,Refrigerator,Refrigeration,40.3,15.62,455.39,33.0,100.19,No
+46,1,2BHK,2023-07,2023,5,Water Geyser,Heating,11.5,4.46,129.95,9.4,0.0,No
+47,1,2BHK,2023-07,2023,6,Smart TV,Entertainment,11.5,4.46,129.95,9.4,0.0,No
+48,1,2BHK,2023-07,2023,8,LED Lights,Lighting,8.6,3.35,97.18,7.1,0.0,No
+49,1,2BHK,2023-07,2023,7,Wi-Fi Router,Always-On,8.6,3.35,97.18,7.1,0.0,No
+50,1,2BHK,2023-08,2023,1,Split AC (Master Bed),Cooling,120.6,44.2,1373.63,98.9,384.62,Yes
+51,1,2BHK,2023-08,2023,2,Ceiling Fans (x2),Fans,67.0,24.55,763.13,54.9,473.14,Yes
+52,1,2BHK,2023-08,2023,4,Refrigerator,Refrigeration,42.6,15.62,485.21,34.9,106.75,No
+53,1,2BHK,2023-08,2023,5,Water Geyser,Heating,12.2,4.46,138.96,10.0,0.0,No
+54,1,2BHK,2023-08,2023,6,Smart TV,Entertainment,12.2,4.46,138.96,10.0,0.0,No
+55,1,2BHK,2023-08,2023,8,LED Lights,Lighting,9.1,3.35,103.65,7.5,0.0,No
+56,1,2BHK,2023-08,2023,7,Wi-Fi Router,Always-On,9.1,3.35,103.65,7.5,0.0,No
+57,1,2BHK,2023-09,2023,1,Split AC (Master Bed),Cooling,120.5,44.2,1372.5,98.8,384.3,Yes
+58,1,2BHK,2023-09,2023,2,Ceiling Fans (x2),Fans,67.0,24.55,763.13,54.9,473.14,Yes
+59,1,2BHK,2023-09,2023,4,Refrigerator,Refrigeration,42.6,15.62,485.21,34.9,106.75,No
+60,1,2BHK,2023-09,2023,5,Water Geyser,Heating,12.2,4.46,138.96,10.0,0.0,No
+61,1,2BHK,2023-09,2023,6,Smart TV,Entertainment,12.2,4.46,138.96,10.0,0.0,No
+62,1,2BHK,2023-09,2023,8,LED Lights,Lighting,9.1,3.35,103.65,7.5,0.0,No
+63,1,2BHK,2023-09,2023,7,Wi-Fi Router,Always-On,9.1,3.35,103.65,7.5,0.0,No
+64,1,2BHK,2023-10,2023,1,Split AC (Master Bed),Cooling,99.1,44.2,1093.07,81.3,306.06,Yes
+65,1,2BHK,2023-10,2023,2,Ceiling Fans (x2),Fans,55.1,24.55,607.75,45.2,376.81,Yes
+66,1,2BHK,2023-10,2023,4,Refrigerator,Refrigeration,35.0,15.62,386.05,28.7,84.93,No
+67,1,2BHK,2023-10,2023,5,Water Geyser,Heating,10.0,4.46,110.3,8.2,0.0,No
+68,1,2BHK,2023-10,2023,6,Smart TV,Entertainment,10.0,4.46,110.3,8.2,0.0,No
+69,1,2BHK,2023-10,2023,8,LED Lights,Lighting,7.5,3.35,82.72,6.1,0.0,No
+70,1,2BHK,2023-10,2023,7,Wi-Fi Router,Always-On,7.5,3.35,82.72,6.1,0.0,No
+71,1,2BHK,2023-11,2023,1,Split AC (Master Bed),Cooling,85.7,37.5,948.7,70.3,265.64,Yes
+72,1,2BHK,2023-11,2023,2,Ceiling Fans (x2),Fans,47.6,20.83,526.93,39.0,326.7,Yes
+73,1,2BHK,2023-11,2023,4,Refrigerator,Refrigeration,30.3,13.26,335.42,24.8,73.79,No
+74,1,2BHK,2023-11,2023,5,Water Geyser,Heating,43.3,18.94,479.33,35.5,0.0,No
+75,1,2BHK,2023-11,2023,6,Smart TV,Entertainment,8.7,3.79,96.31,7.1,0.0,No
+76,1,2BHK,2023-11,2023,8,LED Lights,Lighting,6.5,2.84,71.95,5.3,0.0,No
+77,1,2BHK,2023-11,2023,7,Wi-Fi Router,Always-On,6.5,2.84,71.95,5.3,0.0,No
+78,1,2BHK,2023-12,2023,1,Split AC (Master Bed),Cooling,45.2,21.05,494.49,37.1,138.46,No
+79,1,2BHK,2023-12,2023,2,Ceiling Fans (x2),Fans,56.4,26.32,617.02,46.2,382.55,Yes
+80,1,2BHK,2023-12,2023,4,Refrigerator,Refrigeration,35.9,16.75,392.75,29.4,86.41,No
+81,1,2BHK,2023-12,2023,5,Water Geyser,Heating,51.3,23.92,561.22,42.1,0.0,No
+82,1,2BHK,2023-12,2023,6,Smart TV,Entertainment,10.3,4.78,112.68,8.4,0.0,No
+83,1,2BHK,2023-12,2023,8,LED Lights,Lighting,7.7,3.59,84.24,6.3,0.0,No
+84,1,2BHK,2023-12,2023,7,Wi-Fi Router,Always-On,7.7,3.59,84.24,6.3,0.0,No
+85,1,2BHK,2024-01,2024,1,Split AC (Master Bed),Cooling,51.4,21.05,575.68,42.1,161.19,Yes
+86,1,2BHK,2024-01,2024,2,Ceiling Fans (x2),Fans,64.3,26.32,720.16,52.7,446.5,Yes
+87,1,2BHK,2024-01,2024,4,Refrigerator,Refrigeration,40.9,16.75,458.08,33.5,100.78,No
+88,1,2BHK,2024-01,2024,5,Water Geyser,Heating,58.4,23.92,654.08,47.9,0.0,No
+89,1,2BHK,2024-01,2024,6,Smart TV,Entertainment,11.7,4.78,131.04,9.6,0.0,No
+90,1,2BHK,2024-01,2024,8,LED Lights,Lighting,8.8,3.59,98.56,7.2,0.0,No
+91,1,2BHK,2024-01,2024,7,Wi-Fi Router,Always-On,8.8,3.59,98.56,7.2,0.0,No
+92,1,2BHK,2024-02,2024,1,Split AC (Master Bed),Cooling,45.1,21.05,492.94,37.0,138.02,No
+93,1,2BHK,2024-02,2024,2,Ceiling Fans (x2),Fans,56.4,26.32,616.45,46.2,382.2,Yes
+94,1,2BHK,2024-02,2024,4,Refrigerator,Refrigeration,35.9,16.75,392.39,29.4,86.33,No
+95,1,2BHK,2024-02,2024,5,Water Geyser,Heating,51.2,23.92,559.62,42.0,0.0,No
+96,1,2BHK,2024-02,2024,6,Smart TV,Entertainment,10.2,4.78,111.49,8.4,0.0,No
+97,1,2BHK,2024-02,2024,8,LED Lights,Lighting,7.7,3.59,84.16,6.3,0.0,No
+98,1,2BHK,2024-02,2024,7,Wi-Fi Router,Always-On,7.7,3.59,84.16,6.3,0.0,No
+99,1,2BHK,2024-03,2024,1,Split AC (Master Bed),Cooling,185.8,44.2,2471.14,152.4,691.92,Yes
+100,1,2BHK,2024-03,2024,2,Ceiling Fans (x2),Fans,103.2,24.55,1372.56,84.6,850.99,Yes
+101,1,2BHK,2024-03,2024,4,Refrigerator,Refrigeration,65.7,15.62,873.81,53.9,192.24,Yes
+102,1,2BHK,2024-03,2024,5,Water Geyser,Heating,18.8,4.46,250.04,15.4,0.0,No
+103,1,2BHK,2024-03,2024,6,Smart TV,Entertainment,18.8,4.46,250.04,15.4,0.0,No
+104,1,2BHK,2024-03,2024,8,LED Lights,Lighting,14.1,3.35,187.53,11.6,0.0,No
+105,1,2BHK,2024-03,2024,7,Wi-Fi Router,Always-On,14.1,3.35,187.53,11.6,0.0,No
+106,1,2BHK,2024-04,2024,1,Split AC (Master Bed),Cooling,223.7,58.47,2879.02,183.4,806.13,Yes
+107,1,2BHK,2024-04,2024,2,Ceiling Fans (x2),Fans,69.9,18.27,899.61,57.3,557.76,Yes
+108,1,2BHK,2024-04,2024,4,Refrigerator,Refrigeration,44.5,11.63,572.71,36.5,126.0,No
+109,1,2BHK,2024-04,2024,5,Water Geyser,Heating,12.7,3.32,163.45,10.4,0.0,No
+110,1,2BHK,2024-04,2024,6,Smart TV,Entertainment,12.7,3.32,163.45,10.4,0.0,No
+111,1,2BHK,2024-04,2024,8,LED Lights,Lighting,9.5,2.49,122.26,7.8,0.0,No
+112,1,2BHK,2024-04,2024,7,Wi-Fi Router,Always-On,9.5,2.49,122.26,7.8,0.0,No
+113,1,2BHK,2024-05,2024,1,Split AC (Master Bed),Cooling,215.7,58.47,2737.23,176.9,766.42,Yes
+114,1,2BHK,2024-05,2024,2,Ceiling Fans (x2),Fans,67.4,18.27,855.31,55.3,530.29,Yes
+115,1,2BHK,2024-05,2024,4,Refrigerator,Refrigeration,42.9,11.63,544.4,35.2,119.77,No
+116,1,2BHK,2024-05,2024,5,Water Geyser,Heating,12.3,3.32,156.09,10.1,0.0,No
+117,1,2BHK,2024-05,2024,6,Smart TV,Entertainment,12.3,3.32,156.09,10.1,0.0,No
+118,1,2BHK,2024-05,2024,8,LED Lights,Lighting,9.2,2.49,116.75,7.5,0.0,No
+119,1,2BHK,2024-05,2024,7,Wi-Fi Router,Always-On,9.2,2.49,116.75,7.5,0.0,No
+120,1,2BHK,2024-06,2024,1,Split AC (Master Bed),Cooling,235.4,58.47,3086.09,193.0,864.11,Yes
+121,1,2BHK,2024-06,2024,2,Ceiling Fans (x2),Fans,73.6,18.27,964.9,60.4,598.24,Yes
+122,1,2BHK,2024-06,2024,4,Refrigerator,Refrigeration,46.8,11.63,613.55,38.4,134.98,No
+123,1,2BHK,2024-06,2024,5,Water Geyser,Heating,13.4,3.32,175.67,11.0,0.0,No
+124,1,2BHK,2024-06,2024,6,Smart TV,Entertainment,13.4,3.32,175.67,11.0,0.0,No
+125,1,2BHK,2024-06,2024,8,LED Lights,Lighting,10.0,2.49,131.1,8.2,0.0,No
+126,1,2BHK,2024-06,2024,7,Wi-Fi Router,Always-On,10.0,2.49,131.1,8.2,0.0,No
+127,1,2BHK,2024-07,2024,1,Split AC (Master Bed),Cooling,126.4,44.2,1449.81,103.6,405.95,Yes
+128,1,2BHK,2024-07,2024,2,Ceiling Fans (x2),Fans,70.2,24.55,805.19,57.6,499.22,Yes
+129,1,2BHK,2024-07,2024,4,Refrigerator,Refrigeration,44.7,15.62,512.71,36.7,112.8,No
+130,1,2BHK,2024-07,2024,5,Water Geyser,Heating,12.8,4.46,146.82,10.5,0.0,No
+131,1,2BHK,2024-07,2024,6,Smart TV,Entertainment,12.8,4.46,146.82,10.5,0.0,No
+132,1,2BHK,2024-07,2024,8,LED Lights,Lighting,9.6,3.35,110.11,7.9,0.0,No
+133,1,2BHK,2024-07,2024,7,Wi-Fi Router,Always-On,9.6,3.35,110.11,7.9,0.0,No
+134,1,2BHK,2024-08,2024,1,Split AC (Master Bed),Cooling,123.0,44.2,1405.89,100.9,393.65,Yes
+135,1,2BHK,2024-08,2024,2,Ceiling Fans (x2),Fans,68.3,24.55,780.67,56.0,484.02,Yes
+136,1,2BHK,2024-08,2024,4,Refrigerator,Refrigeration,43.5,15.62,497.2,35.7,109.38,No
+137,1,2BHK,2024-08,2024,5,Water Geyser,Heating,12.4,4.46,141.73,10.2,0.0,No
+138,1,2BHK,2024-08,2024,6,Smart TV,Entertainment,12.4,4.46,141.73,10.2,0.0,No
+139,1,2BHK,2024-08,2024,8,LED Lights,Lighting,9.3,3.35,106.3,7.6,0.0,No
+140,1,2BHK,2024-08,2024,7,Wi-Fi Router,Always-On,9.3,3.35,106.3,7.6,0.0,No
+141,1,2BHK,2024-09,2024,1,Split AC (Master Bed),Cooling,127.5,44.2,1463.7,104.5,409.84,Yes
+142,1,2BHK,2024-09,2024,2,Ceiling Fans (x2),Fans,70.8,24.55,812.78,58.1,503.92,Yes
+143,1,2BHK,2024-09,2024,4,Refrigerator,Refrigeration,45.1,15.62,517.75,37.0,113.91,No
+144,1,2BHK,2024-09,2024,5,Water Geyser,Heating,12.9,4.46,148.09,10.6,0.0,No
+145,1,2BHK,2024-09,2024,6,Smart TV,Entertainment,12.9,4.46,148.09,10.6,0.0,No
+146,1,2BHK,2024-09,2024,8,LED Lights,Lighting,9.7,3.35,111.36,8.0,0.0,No
+147,1,2BHK,2024-09,2024,7,Wi-Fi Router,Always-On,9.7,3.35,111.36,8.0,0.0,No
+148,1,2BHK,2024-10,2024,1,Split AC (Master Bed),Cooling,106.0,44.2,1182.96,86.9,331.23,Yes
+149,1,2BHK,2024-10,2024,2,Ceiling Fans (x2),Fans,58.9,24.55,657.32,48.3,407.54,Yes
+150,1,2BHK,2024-10,2024,4,Refrigerator,Refrigeration,37.5,15.62,418.5,30.7,92.07,No
+151,1,2BHK,2024-10,2024,5,Water Geyser,Heating,10.7,4.46,119.41,8.8,0.0,No
+152,1,2BHK,2024-10,2024,6,Smart TV,Entertainment,10.7,4.46,119.41,8.8,0.0,No
+153,1,2BHK,2024-10,2024,8,LED Lights,Lighting,8.0,3.35,89.28,6.6,0.0,No
+154,1,2BHK,2024-10,2024,7,Wi-Fi Router,Always-On,8.0,3.35,89.28,6.6,0.0,No
+155,1,2BHK,2024-11,2024,1,Split AC (Master Bed),Cooling,84.9,37.5,938.15,69.6,262.68,Yes
+156,1,2BHK,2024-11,2024,2,Ceiling Fans (x2),Fans,47.2,20.83,521.56,38.7,323.37,Yes
+157,1,2BHK,2024-11,2024,4,Refrigerator,Refrigeration,30.0,13.26,331.5,24.6,72.93,No
+158,1,2BHK,2024-11,2024,5,Water Geyser,Heating,42.9,18.94,474.05,35.2,0.0,No
+159,1,2BHK,2024-11,2024,6,Smart TV,Entertainment,8.6,3.79,95.03,7.1,0.0,No
+160,1,2BHK,2024-11,2024,8,LED Lights,Lighting,6.4,2.84,70.72,5.2,0.0,No
+161,1,2BHK,2024-11,2024,7,Wi-Fi Router,Always-On,6.4,2.84,70.72,5.2,0.0,No
+162,1,2BHK,2024-12,2024,1,Split AC (Master Bed),Cooling,48.4,21.05,536.27,39.7,150.16,Yes
+163,1,2BHK,2024-12,2024,2,Ceiling Fans (x2),Fans,60.5,26.32,670.34,49.6,415.61,Yes
+164,1,2BHK,2024-12,2024,4,Refrigerator,Refrigeration,38.5,16.75,426.58,31.6,93.85,No
+165,1,2BHK,2024-12,2024,5,Water Geyser,Heating,55.0,23.92,609.4,45.1,0.0,No
+166,1,2BHK,2024-12,2024,6,Smart TV,Entertainment,11.0,4.78,121.88,9.0,0.0,No
+167,1,2BHK,2024-12,2024,8,LED Lights,Lighting,8.3,3.59,91.96,6.8,0.0,No
+168,1,2BHK,2024-12,2024,7,Wi-Fi Router,Always-On,8.3,3.59,91.96,6.8,0.0,No
+169,1,2BHK,2025-01,2025,1,Split AC (Master Bed),Cooling,45.7,21.05,500.87,37.5,140.24,No
+170,1,2BHK,2025-01,2025,2,Ceiling Fans (x2),Fans,57.1,26.32,625.82,46.8,388.01,Yes
+171,1,2BHK,2025-01,2025,4,Refrigerator,Refrigeration,36.3,16.75,397.85,29.8,87.53,No
+172,1,2BHK,2025-01,2025,5,Water Geyser,Heating,51.9,23.92,568.82,42.6,0.0,No
+173,1,2BHK,2025-01,2025,6,Smart TV,Entertainment,10.4,4.78,113.98,8.5,0.0,No
+174,1,2BHK,2025-01,2025,8,LED Lights,Lighting,7.8,3.59,85.49,6.4,0.0,No
+175,1,2BHK,2025-01,2025,7,Wi-Fi Router,Always-On,7.8,3.59,85.49,6.4,0.0,No
+176,1,2BHK,2025-02,2025,1,Split AC (Master Bed),Cooling,48.7,21.05,540.08,39.9,151.22,Yes
+177,1,2BHK,2025-02,2025,2,Ceiling Fans (x2),Fans,60.9,26.32,675.38,49.9,418.74,Yes
+178,1,2BHK,2025-02,2025,4,Refrigerator,Refrigeration,38.8,16.75,430.29,31.8,94.66,No
+179,1,2BHK,2025-02,2025,5,Water Geyser,Heating,55.4,23.92,614.39,45.4,0.0,No
+180,1,2BHK,2025-02,2025,6,Smart TV,Entertainment,11.1,4.78,123.1,9.1,0.0,No
+181,1,2BHK,2025-02,2025,8,LED Lights,Lighting,8.3,3.59,92.05,6.8,0.0,No
+182,1,2BHK,2025-02,2025,7,Wi-Fi Router,Always-On,8.3,3.59,92.05,6.8,0.0,No
+183,1,2BHK,2025-03,2025,1,Split AC (Master Bed),Cooling,174.7,44.2,2274.59,143.3,636.89,Yes
+184,1,2BHK,2025-03,2025,2,Ceiling Fans (x2),Fans,97.0,24.55,1262.94,79.5,783.02,Yes
+185,1,2BHK,2025-03,2025,4,Refrigerator,Refrigeration,61.8,15.62,804.64,50.7,177.02,Yes
+186,1,2BHK,2025-03,2025,5,Water Geyser,Heating,17.6,4.46,229.15,14.4,0.0,No
+187,1,2BHK,2025-03,2025,6,Smart TV,Entertainment,17.6,4.46,229.15,14.4,0.0,No
+188,1,2BHK,2025-03,2025,8,LED Lights,Lighting,13.2,3.35,171.86,10.8,0.0,No
+189,1,2BHK,2025-03,2025,7,Wi-Fi Router,Always-On,13.2,3.35,171.86,10.8,0.0,No
+190,1,2BHK,2025-04,2025,1,Split AC (Master Bed),Cooling,214.8,58.47,2721.52,176.1,762.03,Yes
+191,1,2BHK,2025-04,2025,2,Ceiling Fans (x2),Fans,67.1,18.27,850.16,55.0,527.1,Yes
+192,1,2BHK,2025-04,2025,4,Refrigerator,Refrigeration,42.7,11.63,541.01,35.0,119.02,No
+193,1,2BHK,2025-04,2025,5,Water Geyser,Heating,12.2,3.32,154.57,10.0,0.0,No
+194,1,2BHK,2025-04,2025,6,Smart TV,Entertainment,12.2,3.32,154.57,10.0,0.0,No
+195,1,2BHK,2025-04,2025,8,LED Lights,Lighting,9.2,2.49,116.56,7.5,0.0,No
+196,1,2BHK,2025-04,2025,7,Wi-Fi Router,Always-On,9.2,2.49,116.56,7.5,0.0,No
+197,1,2BHK,2025-05,2025,1,Split AC (Master Bed),Cooling,241.2,58.47,3188.66,197.8,892.82,Yes
+198,1,2BHK,2025-05,2025,2,Ceiling Fans (x2),Fans,75.4,18.27,996.79,61.8,618.01,Yes
+199,1,2BHK,2025-05,2025,4,Refrigerator,Refrigeration,48.0,11.63,634.56,39.4,139.6,No
+200,1,2BHK,2025-05,2025,5,Water Geyser,Heating,13.7,3.32,181.11,11.2,0.0,No
+201,1,2BHK,2025-05,2025,6,Smart TV,Entertainment,13.7,3.32,181.11,11.2,0.0,No
+202,1,2BHK,2025-05,2025,8,LED Lights,Lighting,10.3,2.49,136.17,8.4,0.0,No
+203,1,2BHK,2025-05,2025,7,Wi-Fi Router,Always-On,10.3,2.49,136.17,8.4,0.0,No
+204,1,2BHK,2025-06,2025,1,Split AC (Master Bed),Cooling,234.6,58.47,3070.91,192.4,859.85,Yes
+205,1,2BHK,2025-06,2025,2,Ceiling Fans (x2),Fans,73.3,18.27,959.5,60.1,594.89,Yes
+206,1,2BHK,2025-06,2025,4,Refrigerator,Refrigeration,46.7,11.63,611.3,38.3,134.49,No
+207,1,2BHK,2025-06,2025,5,Water Geyser,Heating,13.3,3.32,174.1,10.9,0.0,No
+208,1,2BHK,2025-06,2025,6,Smart TV,Entertainment,13.3,3.32,174.1,10.9,0.0,No
+209,1,2BHK,2025-06,2025,8,LED Lights,Lighting,10.0,2.49,130.9,8.2,0.0,No
+210,1,2BHK,2025-06,2025,7,Wi-Fi Router,Always-On,10.0,2.49,130.9,8.2,0.0,No
+211,1,2BHK,2025-07,2025,1,Split AC (Master Bed),Cooling,125.7,44.2,1440.52,103.1,403.35,Yes
+212,1,2BHK,2025-07,2025,2,Ceiling Fans (x2),Fans,69.8,24.55,799.91,57.2,495.94,Yes
+213,1,2BHK,2025-07,2025,4,Refrigerator,Refrigeration,44.4,15.62,508.82,36.4,111.94,No
+214,1,2BHK,2025-07,2025,5,Water Geyser,Heating,12.7,4.46,145.54,10.4,0.0,No
+215,1,2BHK,2025-07,2025,6,Smart TV,Entertainment,12.7,4.46,145.54,10.4,0.0,No
+216,1,2BHK,2025-07,2025,8,LED Lights,Lighting,9.5,3.35,108.87,7.8,0.0,No
+217,1,2BHK,2025-07,2025,7,Wi-Fi Router,Always-On,9.5,3.35,108.87,7.8,0.0,No
+218,1,2BHK,2025-08,2025,1,Split AC (Master Bed),Cooling,124.8,44.2,1428.96,102.3,400.11,Yes
+219,1,2BHK,2025-08,2025,2,Ceiling Fans (x2),Fans,69.3,24.55,793.48,56.8,491.96,Yes
+220,1,2BHK,2025-08,2025,4,Refrigerator,Refrigeration,44.1,15.62,504.94,36.2,111.09,No
+221,1,2BHK,2025-08,2025,5,Water Geyser,Heating,12.6,4.46,144.27,10.3,0.0,No
+222,1,2BHK,2025-08,2025,6,Smart TV,Entertainment,12.6,4.46,144.27,10.3,0.0,No
+223,1,2BHK,2025-08,2025,8,LED Lights,Lighting,9.5,3.35,108.77,7.8,0.0,No
+224,1,2BHK,2025-08,2025,7,Wi-Fi Router,Always-On,9.5,3.35,108.77,7.8,0.0,No
+225,1,2BHK,2025-09,2025,1,Split AC (Master Bed),Cooling,116.1,44.2,1315.41,95.2,368.31,Yes
+226,1,2BHK,2025-09,2025,2,Ceiling Fans (x2),Fans,64.5,24.55,730.78,52.9,453.08,Yes
+227,1,2BHK,2025-09,2025,4,Refrigerator,Refrigeration,41.0,15.62,464.53,33.6,102.2,No
+228,1,2BHK,2025-09,2025,5,Water Geyser,Heating,11.7,4.46,132.56,9.6,0.0,No
+229,1,2BHK,2025-09,2025,6,Smart TV,Entertainment,11.7,4.46,132.56,9.6,0.0,No
+230,1,2BHK,2025-09,2025,8,LED Lights,Lighting,8.8,3.35,99.7,7.2,0.0,No
+231,1,2BHK,2025-09,2025,7,Wi-Fi Router,Always-On,8.8,3.35,99.7,7.2,0.0,No
+232,1,2BHK,2025-10,2025,1,Split AC (Master Bed),Cooling,106.0,44.2,1182.96,86.9,331.23,Yes
+233,1,2BHK,2025-10,2025,2,Ceiling Fans (x2),Fans,58.9,24.55,657.32,48.3,407.54,Yes
+234,1,2BHK,2025-10,2025,4,Refrigerator,Refrigeration,37.5,15.62,418.5,30.7,92.07,No
+235,1,2BHK,2025-10,2025,5,Water Geyser,Heating,10.7,4.46,119.41,8.8,0.0,No
+236,1,2BHK,2025-10,2025,6,Smart TV,Entertainment,10.7,4.46,119.41,8.8,0.0,No
+237,1,2BHK,2025-10,2025,8,LED Lights,Lighting,8.0,3.35,89.28,6.6,0.0,No
+238,1,2BHK,2025-10,2025,7,Wi-Fi Router,Always-On,8.0,3.35,89.28,6.6,0.0,No
+239,1,2BHK,2025-11,2025,1,Split AC (Master Bed),Cooling,81.5,37.5,894.06,66.8,250.34,Yes
+240,1,2BHK,2025-11,2025,2,Ceiling Fans (x2),Fans,45.3,20.83,496.94,37.1,308.1,Yes
+241,1,2BHK,2025-11,2025,4,Refrigerator,Refrigeration,28.8,13.26,315.94,23.6,69.51,No
+242,1,2BHK,2025-11,2025,5,Water Geyser,Heating,41.2,18.94,451.96,33.8,0.0,No
+243,1,2BHK,2025-11,2025,6,Smart TV,Entertainment,8.2,3.79,89.95,6.7,0.0,No
+244,1,2BHK,2025-11,2025,8,LED Lights,Lighting,6.2,2.84,68.01,5.1,0.0,No
+245,1,2BHK,2025-11,2025,7,Wi-Fi Router,Always-On,6.2,2.84,68.01,5.1,0.0,No
+246,1,2BHK,2025-12,2025,1,Split AC (Master Bed),Cooling,50.4,21.05,562.46,41.3,157.49,Yes
+247,1,2BHK,2025-12,2025,2,Ceiling Fans (x2),Fans,63.1,26.32,704.2,51.7,436.6,Yes
+248,1,2BHK,2025-12,2025,4,Refrigerator,Refrigeration,40.1,16.75,447.52,32.9,98.45,No
+249,1,2BHK,2025-12,2025,5,Water Geyser,Heating,57.3,23.92,639.47,47.0,0.0,No
+250,1,2BHK,2025-12,2025,6,Smart TV,Entertainment,11.5,4.78,128.34,9.4,0.0,No
+251,1,2BHK,2025-12,2025,8,LED Lights,Lighting,8.6,3.59,95.98,7.1,0.0,No
+252,1,2BHK,2025-12,2025,7,Wi-Fi Router,Always-On,8.6,3.59,95.98,7.1,0.0,No
+253,2,3BHK,2023-01,2023,1,Split ACs (x2 Bedrooms),Cooling,107.6,25.12,1439.69,88.2,403.11,Yes
+254,2,3BHK,2023-01,2023,5,Water Geyser (x2),Heating,144.9,33.82,1938.76,118.8,0.0,No
+255,2,3BHK,2023-01,2023,4,Large Refrigerator,Refrigeration,56.9,13.29,761.32,46.7,167.49,Yes
+256,2,3BHK,2023-01,2023,2,Ceiling Fans (x4),Fans,51.7,12.08,691.75,42.4,428.88,Yes
+257,2,3BHK,2023-01,2023,10,Washing Machine,Utility,25.9,6.04,346.54,21.2,0.0,No
+258,2,3BHK,2023-01,2023,9,Microwave Oven,Kitchen,20.7,4.83,276.97,17.0,0.0,No
+259,2,3BHK,2023-01,2023,6,Smart TV & Soundbar,Entertainment,20.7,4.83,276.97,17.0,0.0,No
+260,2,3BHK,2023-02,2023,1,Split ACs (x2 Bedrooms),Cooling,100.4,25.12,1313.23,82.3,367.7,Yes
+261,2,3BHK,2023-02,2023,5,Water Geyser (x2),Heating,135.2,33.82,1768.42,110.9,0.0,No
+262,2,3BHK,2023-02,2023,4,Large Refrigerator,Refrigeration,53.1,13.29,694.55,43.5,152.8,Yes
+263,2,3BHK,2023-02,2023,2,Ceiling Fans (x4),Fans,48.3,12.08,631.76,39.6,391.69,Yes
+264,2,3BHK,2023-02,2023,10,Washing Machine,Utility,24.1,6.04,315.23,19.8,0.0,No
+265,2,3BHK,2023-02,2023,9,Microwave Oven,Kitchen,19.3,4.83,252.44,15.8,0.0,No
+266,2,3BHK,2023-02,2023,6,Smart TV & Soundbar,Entertainment,19.3,4.83,252.44,15.8,0.0,No
+267,2,3BHK,2023-03,2023,1,Split ACs (x2 Bedrooms),Cooling,395.0,54.17,6268.65,323.9,1755.22,Yes
+268,2,3BHK,2023-03,2023,5,Water Geyser (x2),Heating,47.3,6.48,750.65,38.8,0.0,No
+269,2,3BHK,2023-03,2023,4,Large Refrigerator,Refrigeration,92.9,12.73,1474.32,76.2,324.35,Yes
+270,2,3BHK,2023-03,2023,2,Ceiling Fans (x4),Fans,84.4,11.57,1339.43,69.2,830.45,Yes
+271,2,3BHK,2023-03,2023,10,Washing Machine,Utility,42.2,5.79,669.71,34.6,0.0,No
+272,2,3BHK,2023-03,2023,9,Microwave Oven,Kitchen,33.8,4.63,536.41,27.7,0.0,No
+273,2,3BHK,2023-03,2023,6,Smart TV & Soundbar,Entertainment,33.8,4.63,536.41,27.7,0.0,No
+274,2,3BHK,2023-04,2023,1,Split ACs (x2 Bedrooms),Cooling,468.0,67.75,7319.52,383.8,2049.47,Yes
+275,2,3BHK,2023-04,2023,5,Water Geyser (x2),Heating,31.5,4.56,492.66,25.8,0.0,No
+276,2,3BHK,2023-04,2023,4,Large Refrigerator,Refrigeration,61.9,8.96,968.12,50.8,212.99,Yes
+277,2,3BHK,2023-04,2023,2,Ceiling Fans (x4),Fans,56.3,8.14,880.53,46.2,545.93,Yes
+278,2,3BHK,2023-04,2023,10,Washing Machine,Utility,28.1,4.07,439.48,23.0,0.0,No
+279,2,3BHK,2023-04,2023,9,Microwave Oven,Kitchen,22.5,3.26,351.9,18.4,0.0,No
+280,2,3BHK,2023-04,2023,6,Smart TV & Soundbar,Entertainment,22.5,3.26,351.9,18.4,0.0,No
+281,2,3BHK,2023-05,2023,1,Split ACs (x2 Bedrooms),Cooling,450.6,67.75,6975.29,369.5,1953.08,Yes
+282,2,3BHK,2023-05,2023,5,Water Geyser (x2),Heating,30.3,4.56,469.04,24.8,0.0,No
+283,2,3BHK,2023-05,2023,4,Large Refrigerator,Refrigeration,59.6,8.96,922.61,48.9,202.97,Yes
+284,2,3BHK,2023-05,2023,2,Ceiling Fans (x4),Fans,54.2,8.14,839.02,44.4,520.19,Yes
+285,2,3BHK,2023-05,2023,10,Washing Machine,Utility,27.1,4.07,419.51,22.2,0.0,No
+286,2,3BHK,2023-05,2023,9,Microwave Oven,Kitchen,21.7,3.26,335.92,17.8,0.0,No
+287,2,3BHK,2023-05,2023,6,Smart TV & Soundbar,Entertainment,21.7,3.26,335.92,17.8,0.0,No
+288,2,3BHK,2023-06,2023,1,Split ACs (x2 Bedrooms),Cooling,441.5,67.75,6790.27,362.0,1901.28,Yes
+289,2,3BHK,2023-06,2023,5,Water Geyser (x2),Heating,29.7,4.56,456.79,24.4,0.0,No
+290,2,3BHK,2023-06,2023,4,Large Refrigerator,Refrigeration,58.4,8.96,898.19,47.9,197.6,Yes
+291,2,3BHK,2023-06,2023,2,Ceiling Fans (x4),Fans,53.1,8.14,816.68,43.5,506.34,Yes
+292,2,3BHK,2023-06,2023,10,Washing Machine,Utility,26.5,4.07,407.57,21.7,0.0,No
+293,2,3BHK,2023-06,2023,9,Microwave Oven,Kitchen,21.2,3.26,326.06,17.4,0.0,No
+294,2,3BHK,2023-06,2023,6,Smart TV & Soundbar,Entertainment,21.2,3.26,326.06,17.4,0.0,No
+295,2,3BHK,2023-07,2023,1,Split ACs (x2 Bedrooms),Cooling,247.5,54.17,3378.38,202.9,945.95,Yes
+296,2,3BHK,2023-07,2023,5,Water Geyser (x2),Heating,29.6,6.48,404.04,24.3,0.0,No
+297,2,3BHK,2023-07,2023,4,Large Refrigerator,Refrigeration,58.2,12.73,794.43,47.7,174.77,Yes
+298,2,3BHK,2023-07,2023,2,Ceiling Fans (x4),Fans,52.9,11.57,722.09,43.4,447.7,Yes
+299,2,3BHK,2023-07,2023,10,Washing Machine,Utility,26.4,5.79,360.36,21.6,0.0,No
+300,2,3BHK,2023-07,2023,9,Microwave Oven,Kitchen,21.2,4.63,289.38,17.4,0.0,No
+301,2,3BHK,2023-07,2023,6,Smart TV & Soundbar,Entertainment,21.2,4.63,289.38,17.4,0.0,No
+302,2,3BHK,2023-08,2023,1,Split ACs (x2 Bedrooms),Cooling,285.7,54.17,4088.37,234.3,1144.74,Yes
+303,2,3BHK,2023-08,2023,5,Water Geyser (x2),Heating,34.2,6.48,489.4,28.0,0.0,No
+304,2,3BHK,2023-08,2023,4,Large Refrigerator,Refrigeration,67.2,12.73,961.63,55.1,211.56,Yes
+305,2,3BHK,2023-08,2023,2,Ceiling Fans (x4),Fans,61.1,11.57,874.34,50.1,542.09,Yes
+306,2,3BHK,2023-08,2023,10,Washing Machine,Utility,30.5,5.79,436.46,25.0,0.0,No
+307,2,3BHK,2023-08,2023,9,Microwave Oven,Kitchen,24.4,4.63,349.16,20.0,0.0,No
+308,2,3BHK,2023-08,2023,6,Smart TV & Soundbar,Entertainment,24.4,4.63,349.16,20.0,0.0,No
+309,2,3BHK,2023-09,2023,1,Split ACs (x2 Bedrooms),Cooling,272.2,54.17,3818.97,223.2,1069.31,Yes
+310,2,3BHK,2023-09,2023,5,Water Geyser (x2),Heating,32.6,6.48,457.38,26.7,0.0,No
+311,2,3BHK,2023-09,2023,4,Large Refrigerator,Refrigeration,64.0,12.73,897.92,52.5,197.54,Yes
+312,2,3BHK,2023-09,2023,2,Ceiling Fans (x4),Fans,58.2,11.57,816.55,47.7,506.26,Yes
+313,2,3BHK,2023-09,2023,10,Washing Machine,Utility,29.1,5.79,408.27,23.9,0.0,No
+314,2,3BHK,2023-09,2023,9,Microwave Oven,Kitchen,23.3,4.63,326.9,19.1,0.0,No
+315,2,3BHK,2023-09,2023,6,Smart TV & Soundbar,Entertainment,23.3,4.63,326.9,19.1,0.0,No
+316,2,3BHK,2023-10,2023,1,Split ACs (x2 Bedrooms),Cooling,228.5,54.17,3043.62,187.4,852.21,Yes
+317,2,3BHK,2023-10,2023,5,Water Geyser (x2),Heating,27.3,6.48,363.64,22.4,0.0,No
+318,2,3BHK,2023-10,2023,4,Large Refrigerator,Refrigeration,53.7,12.73,715.28,44.0,157.36,Yes
+319,2,3BHK,2023-10,2023,2,Ceiling Fans (x4),Fans,48.8,11.57,650.02,40.0,403.01,Yes
+320,2,3BHK,2023-10,2023,10,Washing Machine,Utility,24.4,5.79,325.01,20.0,0.0,No
+321,2,3BHK,2023-10,2023,9,Microwave Oven,Kitchen,19.5,4.63,259.74,16.0,0.0,No
+322,2,3BHK,2023-10,2023,6,Smart TV & Soundbar,Entertainment,19.5,4.63,259.74,16.0,0.0,No
+323,2,3BHK,2023-11,2023,1,Split ACs (x2 Bedrooms),Cooling,193.0,43.01,2620.94,158.3,733.86,Yes
+324,2,3BHK,2023-11,2023,5,Water Geyser (x2),Heating,115.5,25.74,1568.49,94.7,0.0,No
+325,2,3BHK,2023-11,2023,4,Large Refrigerator,Refrigeration,45.4,10.11,616.53,37.2,135.64,No
+326,2,3BHK,2023-11,2023,2,Ceiling Fans (x4),Fans,41.2,9.19,559.5,33.8,346.89,Yes
+327,2,3BHK,2023-11,2023,10,Washing Machine,Utility,20.6,4.6,279.75,16.9,0.0,No
+328,2,3BHK,2023-11,2023,9,Microwave Oven,Kitchen,16.5,3.68,224.07,13.5,0.0,No
+329,2,3BHK,2023-11,2023,6,Smart TV & Soundbar,Entertainment,16.5,3.68,224.07,13.5,0.0,No
+330,2,3BHK,2023-12,2023,1,Split ACs (x2 Bedrooms),Cooling,109.1,25.12,1466.3,89.5,410.56,Yes
+331,2,3BHK,2023-12,2023,5,Water Geyser (x2),Heating,146.9,33.82,1974.34,120.5,0.0,No
+332,2,3BHK,2023-12,2023,4,Large Refrigerator,Refrigeration,57.7,13.29,775.49,47.3,170.61,Yes
+333,2,3BHK,2023-12,2023,2,Ceiling Fans (x4),Fans,52.5,12.08,705.6,43.0,437.47,Yes
+334,2,3BHK,2023-12,2023,10,Washing Machine,Utility,26.2,6.04,352.13,21.5,0.0,No
+335,2,3BHK,2023-12,2023,9,Microwave Oven,Kitchen,21.0,4.83,282.24,17.2,0.0,No
+336,2,3BHK,2023-12,2023,6,Smart TV & Soundbar,Entertainment,21.0,4.83,282.24,17.2,0.0,No
+337,2,3BHK,2024-01,2024,1,Split ACs (x2 Bedrooms),Cooling,103.4,25.12,1365.91,84.8,382.45,Yes
+338,2,3BHK,2024-01,2024,5,Water Geyser (x2),Heating,139.2,33.82,1838.83,114.1,0.0,No
+339,2,3BHK,2024-01,2024,4,Large Refrigerator,Refrigeration,54.7,13.29,722.59,44.9,158.97,Yes
+340,2,3BHK,2024-01,2024,2,Ceiling Fans (x4),Fans,49.7,12.08,656.54,40.8,407.05,Yes
+341,2,3BHK,2024-01,2024,10,Washing Machine,Utility,24.8,6.04,327.61,20.3,0.0,No
+342,2,3BHK,2024-01,2024,9,Microwave Oven,Kitchen,19.9,4.83,262.88,16.3,0.0,No
+343,2,3BHK,2024-01,2024,6,Smart TV & Soundbar,Entertainment,19.9,4.83,262.88,16.3,0.0,No
+344,2,3BHK,2024-02,2024,1,Split ACs (x2 Bedrooms),Cooling,101.3,25.12,1328.04,83.1,371.85,Yes
+345,2,3BHK,2024-02,2024,5,Water Geyser (x2),Heating,136.3,33.82,1786.89,111.8,0.0,No
+346,2,3BHK,2024-02,2024,4,Large Refrigerator,Refrigeration,53.6,13.29,702.7,44.0,154.59,Yes
+347,2,3BHK,2024-02,2024,2,Ceiling Fans (x4),Fans,48.7,12.08,638.46,39.9,395.85,Yes
+348,2,3BHK,2024-02,2024,10,Washing Machine,Utility,24.3,6.04,318.57,19.9,0.0,No
+349,2,3BHK,2024-02,2024,9,Microwave Oven,Kitchen,19.5,4.83,255.64,16.0,0.0,No
+350,2,3BHK,2024-02,2024,6,Smart TV & Soundbar,Entertainment,19.5,4.83,255.64,16.0,0.0,No
+351,2,3BHK,2024-03,2024,1,Split ACs (x2 Bedrooms),Cooling,352.4,54.17,5419.91,289.0,1517.57,Yes
+352,2,3BHK,2024-03,2024,5,Water Geyser (x2),Heating,42.2,6.48,649.04,34.6,0.0,No
+353,2,3BHK,2024-03,2024,4,Large Refrigerator,Refrigeration,82.8,12.73,1273.46,67.9,280.16,Yes
+354,2,3BHK,2024-03,2024,2,Ceiling Fans (x4),Fans,75.3,11.57,1158.11,61.7,718.03,Yes
+355,2,3BHK,2024-03,2024,10,Washing Machine,Utility,37.7,5.79,579.83,30.9,0.0,No
+356,2,3BHK,2024-03,2024,9,Microwave Oven,Kitchen,30.1,4.63,462.94,24.7,0.0,No
+357,2,3BHK,2024-03,2024,6,Smart TV & Soundbar,Entertainment,30.1,4.63,462.94,24.7,0.0,No
+358,2,3BHK,2024-04,2024,1,Split ACs (x2 Bedrooms),Cooling,470.4,67.75,7366.46,385.7,2062.61,Yes
+359,2,3BHK,2024-04,2024,5,Water Geyser (x2),Heating,31.7,4.56,496.42,26.0,0.0,No
+360,2,3BHK,2024-04,2024,4,Large Refrigerator,Refrigeration,62.2,8.96,974.05,51.0,214.29,Yes
+361,2,3BHK,2024-04,2024,2,Ceiling Fans (x4),Fans,56.5,8.14,884.79,46.3,548.57,Yes
+362,2,3BHK,2024-04,2024,10,Washing Machine,Utility,28.3,4.07,443.18,23.2,0.0,No
+363,2,3BHK,2024-04,2024,9,Microwave Oven,Kitchen,22.6,3.26,353.92,18.5,0.0,No
+364,2,3BHK,2024-04,2024,6,Smart TV & Soundbar,Entertainment,22.6,3.26,353.92,18.5,0.0,No
+365,2,3BHK,2024-05,2024,1,Split ACs (x2 Bedrooms),Cooling,487.2,67.75,7702.63,399.5,2156.74,Yes
+366,2,3BHK,2024-05,2024,5,Water Geyser (x2),Heating,32.8,4.56,518.57,26.9,0.0,No
+367,2,3BHK,2024-05,2024,4,Large Refrigerator,Refrigeration,64.4,8.96,1018.16,52.8,224.0,Yes
+368,2,3BHK,2024-05,2024,2,Ceiling Fans (x4),Fans,58.6,8.14,926.47,48.1,574.41,Yes
+369,2,3BHK,2024-05,2024,10,Washing Machine,Utility,29.3,4.07,463.23,24.0,0.0,No
+370,2,3BHK,2024-05,2024,9,Microwave Oven,Kitchen,23.4,3.26,369.95,19.2,0.0,No
+371,2,3BHK,2024-05,2024,6,Smart TV & Soundbar,Entertainment,23.4,3.26,369.95,19.2,0.0,No
+372,2,3BHK,2024-06,2024,1,Split ACs (x2 Bedrooms),Cooling,459.6,67.75,7151.38,376.9,2002.39,Yes
+373,2,3BHK,2024-06,2024,5,Water Geyser (x2),Heating,30.9,4.56,480.8,25.3,0.0,No
+374,2,3BHK,2024-06,2024,4,Large Refrigerator,Refrigeration,60.8,8.96,946.05,49.9,208.13,Yes
+375,2,3BHK,2024-06,2024,2,Ceiling Fans (x4),Fans,55.2,8.14,858.91,45.3,532.52,Yes
+376,2,3BHK,2024-06,2024,10,Washing Machine,Utility,27.6,4.07,429.46,22.6,0.0,No
+377,2,3BHK,2024-06,2024,9,Microwave Oven,Kitchen,22.1,3.26,343.88,18.1,0.0,No
+378,2,3BHK,2024-06,2024,6,Smart TV & Soundbar,Entertainment,22.1,3.26,343.88,18.1,0.0,No
+379,2,3BHK,2024-07,2024,1,Split ACs (x2 Bedrooms),Cooling,281.7,54.17,4008.59,231.0,1122.41,Yes
+380,2,3BHK,2024-07,2024,5,Water Geyser (x2),Heating,33.7,6.48,479.55,27.6,0.0,No
+381,2,3BHK,2024-07,2024,4,Large Refrigerator,Refrigeration,66.2,12.73,942.03,54.3,207.25,Yes
+382,2,3BHK,2024-07,2024,2,Ceiling Fans (x4),Fans,60.2,11.57,856.65,49.4,531.12,Yes
+383,2,3BHK,2024-07,2024,10,Washing Machine,Utility,30.1,5.79,428.32,24.7,0.0,No
+384,2,3BHK,2024-07,2024,9,Microwave Oven,Kitchen,24.1,4.63,342.94,19.8,0.0,No
+385,2,3BHK,2024-07,2024,6,Smart TV & Soundbar,Entertainment,24.1,4.63,342.94,19.8,0.0,No
+386,2,3BHK,2024-08,2024,1,Split ACs (x2 Bedrooms),Cooling,264.3,54.17,3676.41,216.7,1029.39,Yes
+387,2,3BHK,2024-08,2024,5,Water Geyser (x2),Heating,31.6,6.48,439.56,25.9,0.0,No
+388,2,3BHK,2024-08,2024,4,Large Refrigerator,Refrigeration,62.1,12.73,863.81,50.9,190.04,Yes
+389,2,3BHK,2024-08,2024,2,Ceiling Fans (x4),Fans,56.5,11.57,785.91,46.3,487.26,Yes
+390,2,3BHK,2024-08,2024,10,Washing Machine,Utility,28.2,5.79,392.26,23.1,0.0,No
+391,2,3BHK,2024-08,2024,9,Microwave Oven,Kitchen,22.6,4.63,314.37,18.5,0.0,No
+392,2,3BHK,2024-08,2024,6,Smart TV & Soundbar,Entertainment,22.6,4.63,314.37,18.5,0.0,No
+393,2,3BHK,2024-09,2024,1,Split ACs (x2 Bedrooms),Cooling,272.2,54.17,3818.97,223.2,1069.31,Yes
+394,2,3BHK,2024-09,2024,5,Water Geyser (x2),Heating,32.6,6.48,457.38,26.7,0.0,No
+395,2,3BHK,2024-09,2024,4,Large Refrigerator,Refrigeration,64.0,12.73,897.92,52.5,197.54,Yes
+396,2,3BHK,2024-09,2024,2,Ceiling Fans (x4),Fans,58.2,11.57,816.55,47.7,506.26,Yes
+397,2,3BHK,2024-09,2024,10,Washing Machine,Utility,29.1,5.79,408.27,23.9,0.0,No
+398,2,3BHK,2024-09,2024,9,Microwave Oven,Kitchen,23.3,4.63,326.9,19.1,0.0,No
+399,2,3BHK,2024-09,2024,6,Smart TV & Soundbar,Entertainment,23.3,4.63,326.9,19.1,0.0,No
+400,2,3BHK,2024-10,2024,1,Split ACs (x2 Bedrooms),Cooling,240.7,54.17,3259.08,197.4,912.54,Yes
+401,2,3BHK,2024-10,2024,5,Water Geyser (x2),Heating,28.8,6.48,389.95,23.6,0.0,No
+402,2,3BHK,2024-10,2024,4,Large Refrigerator,Refrigeration,56.6,12.73,766.36,46.4,168.6,Yes
+403,2,3BHK,2024-10,2024,2,Ceiling Fans (x4),Fans,51.4,11.57,695.96,42.1,431.5,Yes
+404,2,3BHK,2024-10,2024,10,Washing Machine,Utility,25.7,5.79,347.98,21.1,0.0,No
+405,2,3BHK,2024-10,2024,9,Microwave Oven,Kitchen,20.6,4.63,278.92,16.9,0.0,No
+406,2,3BHK,2024-10,2024,6,Smart TV & Soundbar,Entertainment,20.6,4.63,278.92,16.9,0.0,No
+407,2,3BHK,2024-11,2024,1,Split ACs (x2 Bedrooms),Cooling,187.2,43.01,2517.84,153.5,705.0,Yes
+408,2,3BHK,2024-11,2024,5,Water Geyser (x2),Heating,112.0,25.74,1506.4,91.8,0.0,No
+409,2,3BHK,2024-11,2024,4,Large Refrigerator,Refrigeration,44.0,10.11,591.8,36.1,130.2,No
+410,2,3BHK,2024-11,2024,2,Ceiling Fans (x4),Fans,40.0,9.19,538.0,32.8,333.56,Yes
+411,2,3BHK,2024-11,2024,10,Washing Machine,Utility,20.0,4.6,269.0,16.4,0.0,No
+412,2,3BHK,2024-11,2024,9,Microwave Oven,Kitchen,16.0,3.68,215.2,13.1,0.0,No
+413,2,3BHK,2024-11,2024,6,Smart TV & Soundbar,Entertainment,16.0,3.68,215.2,13.1,0.0,No
+414,2,3BHK,2024-12,2024,1,Split ACs (x2 Bedrooms),Cooling,100.3,25.12,1310.92,82.2,367.06,Yes
+415,2,3BHK,2024-12,2024,5,Water Geyser (x2),Heating,135.0,33.82,1764.45,110.7,0.0,No
+416,2,3BHK,2024-12,2024,4,Large Refrigerator,Refrigeration,53.0,13.29,692.71,43.5,152.4,Yes
+417,2,3BHK,2024-12,2024,2,Ceiling Fans (x4),Fans,48.2,12.08,629.97,39.5,390.58,Yes
+418,2,3BHK,2024-12,2024,10,Washing Machine,Utility,24.1,6.04,314.99,19.8,0.0,No
+419,2,3BHK,2024-12,2024,9,Microwave Oven,Kitchen,19.3,4.83,252.25,15.8,0.0,No
+420,2,3BHK,2024-12,2024,6,Smart TV & Soundbar,Entertainment,19.3,4.83,252.25,15.8,0.0,No
+421,2,3BHK,2025-01,2025,1,Split ACs (x2 Bedrooms),Cooling,100.2,25.12,1308.61,82.2,366.41,Yes
+422,2,3BHK,2025-01,2025,5,Water Geyser (x2),Heating,134.8,33.82,1760.49,110.5,0.0,No
+423,2,3BHK,2025-01,2025,4,Large Refrigerator,Refrigeration,53.0,13.29,692.18,43.5,152.28,Yes
+424,2,3BHK,2025-01,2025,2,Ceiling Fans (x4),Fans,48.2,12.08,629.49,39.5,390.28,Yes
+425,2,3BHK,2025-01,2025,10,Washing Machine,Utility,24.1,6.04,314.75,19.8,0.0,No
+426,2,3BHK,2025-01,2025,9,Microwave Oven,Kitchen,19.3,4.83,252.06,15.8,0.0,No
+427,2,3BHK,2025-01,2025,6,Smart TV & Soundbar,Entertainment,19.3,4.83,252.06,15.8,0.0,No
+428,2,3BHK,2025-02,2025,1,Split ACs (x2 Bedrooms),Cooling,98.3,25.12,1275.93,80.6,357.26,Yes
+429,2,3BHK,2025-02,2025,5,Water Geyser (x2),Heating,132.4,33.82,1718.55,108.6,0.0,No
+430,2,3BHK,2025-02,2025,4,Large Refrigerator,Refrigeration,52.0,13.29,674.96,42.6,148.49,No
+431,2,3BHK,2025-02,2025,2,Ceiling Fans (x4),Fans,47.3,12.08,613.95,38.8,380.65,Yes
+432,2,3BHK,2025-02,2025,10,Washing Machine,Utility,23.6,6.04,306.33,19.4,0.0,No
+433,2,3BHK,2025-02,2025,9,Microwave Oven,Kitchen,18.9,4.83,245.32,15.5,0.0,No
+434,2,3BHK,2025-02,2025,6,Smart TV & Soundbar,Entertainment,18.9,4.83,245.32,15.5,0.0,No
+435,2,3BHK,2025-03,2025,1,Split ACs (x2 Bedrooms),Cooling,344.7,54.17,5263.57,282.7,1473.8,Yes
+436,2,3BHK,2025-03,2025,5,Water Geyser (x2),Heating,41.2,6.48,629.12,33.8,0.0,No
+437,2,3BHK,2025-03,2025,4,Large Refrigerator,Refrigeration,81.0,12.73,1236.87,66.4,272.11,Yes
+438,2,3BHK,2025-03,2025,2,Ceiling Fans (x4),Fans,73.6,11.57,1123.87,60.4,696.8,Yes
+439,2,3BHK,2025-03,2025,10,Washing Machine,Utility,36.8,5.79,561.94,30.2,0.0,No
+440,2,3BHK,2025-03,2025,9,Microwave Oven,Kitchen,29.5,4.63,450.46,24.2,0.0,No
+441,2,3BHK,2025-03,2025,6,Smart TV & Soundbar,Entertainment,29.5,4.63,450.46,24.2,0.0,No
+442,2,3BHK,2025-04,2025,1,Split ACs (x2 Bedrooms),Cooling,424.9,67.75,6462.73,348.4,1809.56,Yes
+443,2,3BHK,2025-04,2025,5,Water Geyser (x2),Heating,28.6,4.56,435.01,23.5,0.0,No
+444,2,3BHK,2025-04,2025,4,Large Refrigerator,Refrigeration,56.2,8.96,854.8,46.1,188.06,Yes
+445,2,3BHK,2025-04,2025,2,Ceiling Fans (x4),Fans,51.1,8.14,777.23,41.9,481.88,Yes
+446,2,3BHK,2025-04,2025,10,Washing Machine,Utility,25.5,4.07,387.86,20.9,0.0,No
+447,2,3BHK,2025-04,2025,9,Microwave Oven,Kitchen,20.4,3.26,310.28,16.7,0.0,No
+448,2,3BHK,2025-04,2025,6,Smart TV & Soundbar,Entertainment,20.4,3.26,310.28,16.7,0.0,No
+449,2,3BHK,2025-05,2025,1,Split ACs (x2 Bedrooms),Cooling,459.6,67.75,7151.38,376.9,2002.39,Yes
+450,2,3BHK,2025-05,2025,5,Water Geyser (x2),Heating,30.9,4.56,480.8,25.3,0.0,No
+451,2,3BHK,2025-05,2025,4,Large Refrigerator,Refrigeration,60.8,8.96,946.05,49.9,208.13,Yes
+452,2,3BHK,2025-05,2025,2,Ceiling Fans (x4),Fans,55.2,8.14,858.91,45.3,532.52,Yes
+453,2,3BHK,2025-05,2025,10,Washing Machine,Utility,27.6,4.07,429.46,22.6,0.0,No
+454,2,3BHK,2025-05,2025,9,Microwave Oven,Kitchen,22.1,3.26,343.88,18.1,0.0,No
+455,2,3BHK,2025-05,2025,6,Smart TV & Soundbar,Entertainment,22.1,3.26,343.88,18.1,0.0,No
+456,2,3BHK,2025-06,2025,1,Split ACs (x2 Bedrooms),Cooling,428.2,67.75,6525.77,351.1,1827.22,Yes
+457,2,3BHK,2025-06,2025,5,Water Geyser (x2),Heating,28.8,4.56,438.91,23.6,0.0,No
+458,2,3BHK,2025-06,2025,4,Large Refrigerator,Refrigeration,56.6,8.96,862.58,46.4,189.77,Yes
+459,2,3BHK,2025-06,2025,2,Ceiling Fans (x4),Fans,51.5,8.14,784.86,42.2,486.61,Yes
+460,2,3BHK,2025-06,2025,10,Washing Machine,Utility,25.7,4.07,391.67,21.1,0.0,No
+461,2,3BHK,2025-06,2025,9,Microwave Oven,Kitchen,20.6,3.26,313.94,16.9,0.0,No
+462,2,3BHK,2025-06,2025,6,Smart TV & Soundbar,Entertainment,20.6,3.26,313.94,16.9,0.0,No
+463,2,3BHK,2025-07,2025,1,Split ACs (x2 Bedrooms),Cooling,255.4,54.17,3519.41,209.4,985.43,Yes
+464,2,3BHK,2025-07,2025,5,Water Geyser (x2),Heating,30.6,6.48,421.67,25.1,0.0,No
+465,2,3BHK,2025-07,2025,4,Large Refrigerator,Refrigeration,60.0,12.73,826.8,49.2,181.9,Yes
+466,2,3BHK,2025-07,2025,2,Ceiling Fans (x4),Fans,54.6,11.57,752.39,44.8,466.48,Yes
+467,2,3BHK,2025-07,2025,10,Washing Machine,Utility,27.3,5.79,376.19,22.4,0.0,No
+468,2,3BHK,2025-07,2025,9,Microwave Oven,Kitchen,21.8,4.63,300.4,17.9,0.0,No
+469,2,3BHK,2025-07,2025,6,Smart TV & Soundbar,Entertainment,21.8,4.63,300.4,17.9,0.0,No
+470,2,3BHK,2025-08,2025,1,Split ACs (x2 Bedrooms),Cooling,262.2,54.17,3639.34,215.0,1019.02,Yes
+471,2,3BHK,2025-08,2025,5,Water Geyser (x2),Heating,31.4,6.48,435.83,25.7,0.0,No
+472,2,3BHK,2025-08,2025,4,Large Refrigerator,Refrigeration,61.6,12.73,855.01,50.5,188.1,Yes
+473,2,3BHK,2025-08,2025,2,Ceiling Fans (x4),Fans,56.0,11.57,777.28,45.9,481.91,Yes
+474,2,3BHK,2025-08,2025,10,Washing Machine,Utility,28.0,5.79,388.64,23.0,0.0,No
+475,2,3BHK,2025-08,2025,9,Microwave Oven,Kitchen,22.4,4.63,310.91,18.4,0.0,No
+476,2,3BHK,2025-08,2025,6,Smart TV & Soundbar,Entertainment,22.4,4.63,310.91,18.4,0.0,No
+477,2,3BHK,2025-09,2025,1,Split ACs (x2 Bedrooms),Cooling,267.8,54.17,3738.49,219.6,1046.78,Yes
+478,2,3BHK,2025-09,2025,5,Water Geyser (x2),Heating,32.0,6.48,446.72,26.2,0.0,No
+479,2,3BHK,2025-09,2025,4,Large Refrigerator,Refrigeration,62.9,12.73,878.08,51.6,193.18,Yes
+480,2,3BHK,2025-09,2025,2,Ceiling Fans (x4),Fans,57.2,11.57,798.51,46.9,495.08,Yes
+481,2,3BHK,2025-09,2025,10,Washing Machine,Utility,28.6,5.79,399.26,23.5,0.0,No
+482,2,3BHK,2025-09,2025,9,Microwave Oven,Kitchen,22.9,4.63,319.68,18.8,0.0,No
+483,2,3BHK,2025-09,2025,6,Smart TV & Soundbar,Entertainment,22.9,4.63,319.68,18.8,0.0,No
+484,2,3BHK,2025-10,2025,1,Split ACs (x2 Bedrooms),Cooling,220.1,54.17,2894.32,180.5,810.41,Yes
+485,2,3BHK,2025-10,2025,5,Water Geyser (x2),Heating,26.3,6.48,345.85,21.6,0.0,No
+486,2,3BHK,2025-10,2025,4,Large Refrigerator,Refrigeration,51.7,12.73,679.86,42.4,149.57,No
+487,2,3BHK,2025-10,2025,2,Ceiling Fans (x4),Fans,47.0,11.57,618.05,38.5,383.19,Yes
+488,2,3BHK,2025-10,2025,10,Washing Machine,Utility,23.5,5.79,309.03,19.3,0.0,No
+489,2,3BHK,2025-10,2025,9,Microwave Oven,Kitchen,18.8,4.63,247.22,15.4,0.0,No
+490,2,3BHK,2025-10,2025,6,Smart TV & Soundbar,Entertainment,18.8,4.63,247.22,15.4,0.0,No
+491,2,3BHK,2025-11,2025,1,Split ACs (x2 Bedrooms),Cooling,181.9,43.01,2424.73,149.2,678.92,Yes
+492,2,3BHK,2025-11,2025,5,Water Geyser (x2),Heating,108.8,25.74,1450.3,89.2,0.0,No
+493,2,3BHK,2025-11,2025,4,Large Refrigerator,Refrigeration,42.7,10.11,569.19,35.0,125.22,No
+494,2,3BHK,2025-11,2025,2,Ceiling Fans (x4),Fans,38.9,9.19,518.54,31.9,321.49,Yes
+495,2,3BHK,2025-11,2025,10,Washing Machine,Utility,19.4,4.6,258.6,15.9,0.0,No
+496,2,3BHK,2025-11,2025,9,Microwave Oven,Kitchen,15.5,3.68,206.62,12.7,0.0,No
+497,2,3BHK,2025-11,2025,6,Smart TV & Soundbar,Entertainment,15.5,3.68,206.62,12.7,0.0,No
+498,2,3BHK,2025-12,2025,1,Split ACs (x2 Bedrooms),Cooling,106.9,25.12,1428.18,87.7,399.89,Yes
+499,2,3BHK,2025-12,2025,5,Water Geyser (x2),Heating,144.0,33.82,1923.84,118.1,0.0,No
+500,2,3BHK,2025-12,2025,4,Large Refrigerator,Refrigeration,56.6,13.29,756.18,46.4,166.36,Yes
+501,2,3BHK,2025-12,2025,2,Ceiling Fans (x4),Fans,51.4,12.08,686.7,42.1,425.75,Yes
+502,2,3BHK,2025-12,2025,10,Washing Machine,Utility,25.7,6.04,343.35,21.1,0.0,No
+503,2,3BHK,2025-12,2025,9,Microwave Oven,Kitchen,20.6,4.83,275.22,16.9,0.0,No
+504,2,3BHK,2025-12,2025,6,Smart TV & Soundbar,Entertainment,20.6,4.83,275.22,16.9,0.0,No
+505,3,PG Flat,2023-01,2023,2,Ceiling Fans (x4 Rooms),Fans,109.5,36.21,1270.2,89.8,787.52,Yes
+506,3,PG Flat,2023-01,2023,4,Shared Refrigerator,Refrigeration,46.9,15.52,544.04,38.5,119.69,No
+507,3,PG Flat,2023-01,2023,5,Water Geyser,Heating,83.4,27.59,967.44,68.4,0.0,No
+508,3,PG Flat,2023-01,2023,7,Wi-Fi Router (Dual Band),Always-On,20.9,6.9,242.44,17.1,0.0,No
+509,3,PG Flat,2023-01,2023,8,Study LED Lights (x4),Lighting,20.9,6.9,242.44,17.1,0.0,No
+510,3,PG Flat,2023-01,2023,6,Common TV,Entertainment,20.9,6.9,242.44,17.1,0.0,No
+511,3,PG Flat,2023-02,2023,2,Ceiling Fans (x4 Rooms),Fans,110.0,36.21,1278.2,90.2,792.48,Yes
+512,3,PG Flat,2023-02,2023,4,Shared Refrigerator,Refrigeration,47.2,15.52,548.46,38.7,120.66,No
+513,3,PG Flat,2023-02,2023,5,Water Geyser,Heating,83.8,27.59,973.76,68.7,0.0,No
+514,3,PG Flat,2023-02,2023,7,Wi-Fi Router (Dual Band),Always-On,21.0,6.9,244.02,17.2,0.0,No
+515,3,PG Flat,2023-02,2023,8,Study LED Lights (x4),Lighting,21.0,6.9,244.02,17.2,0.0,No
+516,3,PG Flat,2023-02,2023,6,Common TV,Entertainment,21.0,6.9,244.02,17.2,0.0,No
+517,3,PG Flat,2023-03,2023,2,Ceiling Fans (x4 Rooms),Fans,213.6,46.46,2922.05,175.2,1811.67,Yes
+518,3,PG Flat,2023-03,2023,4,Shared Refrigerator,Refrigeration,91.5,19.91,1251.72,75.0,275.38,Yes
+519,3,PG Flat,2023-03,2023,5,Water Geyser,Heating,32.5,7.08,444.6,26.6,0.0,No
+520,3,PG Flat,2023-03,2023,7,Wi-Fi Router (Dual Band),Always-On,40.7,8.85,556.78,33.4,0.0,No
+521,3,PG Flat,2023-03,2023,8,Study LED Lights (x4),Lighting,40.7,8.85,556.78,33.4,0.0,No
+522,3,PG Flat,2023-03,2023,6,Common TV,Entertainment,40.7,8.85,556.78,33.4,0.0,No
+523,3,PG Flat,2023-04,2023,2,Ceiling Fans (x4 Rooms),Fans,206.6,46.46,2797.36,169.4,1734.36,Yes
+524,3,PG Flat,2023-04,2023,4,Shared Refrigerator,Refrigeration,88.5,19.91,1198.29,72.6,263.62,Yes
+525,3,PG Flat,2023-04,2023,5,Water Geyser,Heating,31.5,7.08,426.51,25.8,0.0,No
+526,3,PG Flat,2023-04,2023,7,Wi-Fi Router (Dual Band),Always-On,39.4,8.85,533.48,32.3,0.0,No
+527,3,PG Flat,2023-04,2023,8,Study LED Lights (x4),Lighting,39.4,8.85,533.48,32.3,0.0,No
+528,3,PG Flat,2023-04,2023,6,Common TV,Entertainment,39.4,8.85,533.48,32.3,0.0,No
+529,3,PG Flat,2023-05,2023,2,Ceiling Fans (x4 Rooms),Fans,212.5,46.46,2902.75,174.2,1799.7,Yes
+530,3,PG Flat,2023-05,2023,4,Shared Refrigerator,Refrigeration,91.1,19.91,1244.43,74.7,273.77,Yes
+531,3,PG Flat,2023-05,2023,5,Water Geyser,Heating,32.4,7.08,442.58,26.6,0.0,No
+532,3,PG Flat,2023-05,2023,7,Wi-Fi Router (Dual Band),Always-On,40.5,8.85,553.23,33.2,0.0,No
+533,3,PG Flat,2023-05,2023,8,Study LED Lights (x4),Lighting,40.5,8.85,553.23,33.2,0.0,No
+534,3,PG Flat,2023-05,2023,6,Common TV,Entertainment,40.5,8.85,553.23,33.2,0.0,No
+535,3,PG Flat,2023-06,2023,2,Ceiling Fans (x4 Rooms),Fans,219.3,46.46,3021.95,179.8,1873.61,Yes
+536,3,PG Flat,2023-06,2023,4,Shared Refrigerator,Refrigeration,94.0,19.91,1295.32,77.1,284.97,Yes
+537,3,PG Flat,2023-06,2023,5,Water Geyser,Heating,33.4,7.08,460.25,27.4,0.0,No
+538,3,PG Flat,2023-06,2023,7,Wi-Fi Router (Dual Band),Always-On,41.8,8.85,576.0,34.3,0.0,No
+539,3,PG Flat,2023-06,2023,8,Study LED Lights (x4),Lighting,41.8,8.85,576.0,34.3,0.0,No
+540,3,PG Flat,2023-06,2023,6,Common TV,Entertainment,41.8,8.85,576.0,34.3,0.0,No
+541,3,PG Flat,2023-07,2023,2,Ceiling Fans (x4 Rooms),Fans,162.3,46.46,2014.14,133.1,1248.77,Yes
+542,3,PG Flat,2023-07,2023,4,Shared Refrigerator,Refrigeration,69.6,19.91,863.74,57.1,190.02,Yes
+543,3,PG Flat,2023-07,2023,5,Water Geyser,Heating,24.7,7.08,306.53,20.3,0.0,No
+544,3,PG Flat,2023-07,2023,7,Wi-Fi Router (Dual Band),Always-On,30.9,8.85,383.47,25.3,0.0,No
+545,3,PG Flat,2023-07,2023,8,Study LED Lights (x4),Lighting,30.9,8.85,383.47,25.3,0.0,No
+546,3,PG Flat,2023-07,2023,6,Common TV,Entertainment,30.9,8.85,383.47,25.3,0.0,No
+547,3,PG Flat,2023-08,2023,2,Ceiling Fans (x4 Rooms),Fans,166.1,46.46,2081.23,136.2,1290.36,Yes
+548,3,PG Flat,2023-08,2023,4,Shared Refrigerator,Refrigeration,71.2,19.91,892.14,58.4,196.27,Yes
+549,3,PG Flat,2023-08,2023,5,Water Geyser,Heating,25.3,7.08,317.01,20.7,0.0,No
+550,3,PG Flat,2023-08,2023,7,Wi-Fi Router (Dual Band),Always-On,31.6,8.85,395.95,25.9,0.0,No
+551,3,PG Flat,2023-08,2023,8,Study LED Lights (x4),Lighting,31.6,8.85,395.95,25.9,0.0,No
+552,3,PG Flat,2023-08,2023,6,Common TV,Entertainment,31.6,8.85,395.95,25.9,0.0,No
+553,3,PG Flat,2023-09,2023,2,Ceiling Fans (x4 Rooms),Fans,155.8,46.46,1899.2,127.8,1177.5,Yes
+554,3,PG Flat,2023-09,2023,4,Shared Refrigerator,Refrigeration,66.8,19.91,814.29,54.8,179.14,Yes
+555,3,PG Flat,2023-09,2023,5,Water Geyser,Heating,23.7,7.08,288.9,19.4,0.0,No
+556,3,PG Flat,2023-09,2023,7,Wi-Fi Router (Dual Band),Always-On,29.7,8.85,362.04,24.4,0.0,No
+557,3,PG Flat,2023-09,2023,8,Study LED Lights (x4),Lighting,29.7,8.85,362.04,24.4,0.0,No
+558,3,PG Flat,2023-09,2023,6,Common TV,Entertainment,29.7,8.85,362.04,24.4,0.0,No
+559,3,PG Flat,2023-10,2023,2,Ceiling Fans (x4 Rooms),Fans,159.0,46.46,1955.7,130.4,1212.53,Yes
+560,3,PG Flat,2023-10,2023,4,Shared Refrigerator,Refrigeration,68.1,19.91,837.63,55.8,184.28,Yes
+561,3,PG Flat,2023-10,2023,5,Water Geyser,Heating,24.2,7.08,297.66,19.8,0.0,No
+562,3,PG Flat,2023-10,2023,7,Wi-Fi Router (Dual Band),Always-On,30.3,8.85,372.69,24.8,0.0,No
+563,3,PG Flat,2023-10,2023,8,Study LED Lights (x4),Lighting,30.3,8.85,372.69,24.8,0.0,No
+564,3,PG Flat,2023-10,2023,6,Common TV,Entertainment,30.3,8.85,372.69,24.8,0.0,No
+565,3,PG Flat,2023-11,2023,2,Ceiling Fans (x4 Rooms),Fans,113.4,36.21,1339.25,93.0,830.34,Yes
+566,3,PG Flat,2023-11,2023,4,Shared Refrigerator,Refrigeration,48.6,15.52,573.97,39.9,126.27,No
+567,3,PG Flat,2023-11,2023,5,Water Geyser,Heating,86.4,27.59,1020.38,70.8,0.0,No
+568,3,PG Flat,2023-11,2023,7,Wi-Fi Router (Dual Band),Always-On,21.6,6.9,255.1,17.7,0.0,No
+569,3,PG Flat,2023-11,2023,8,Study LED Lights (x4),Lighting,21.6,6.9,255.1,17.7,0.0,No
+570,3,PG Flat,2023-11,2023,6,Common TV,Entertainment,21.6,6.9,255.1,17.7,0.0,No
+571,3,PG Flat,2023-12,2023,2,Ceiling Fans (x4 Rooms),Fans,119.6,36.21,1448.36,98.1,897.98,Yes
+572,3,PG Flat,2023-12,2023,4,Shared Refrigerator,Refrigeration,51.3,15.52,621.24,42.1,136.67,No
+573,3,PG Flat,2023-12,2023,5,Water Geyser,Heating,91.1,27.59,1103.22,74.7,0.0,No
+574,3,PG Flat,2023-12,2023,7,Wi-Fi Router (Dual Band),Always-On,22.8,6.9,276.11,18.7,0.0,No
+575,3,PG Flat,2023-12,2023,8,Study LED Lights (x4),Lighting,22.8,6.9,276.11,18.7,0.0,No
+576,3,PG Flat,2023-12,2023,6,Common TV,Entertainment,22.8,6.9,276.11,18.7,0.0,No
+577,3,PG Flat,2024-01,2024,2,Ceiling Fans (x4 Rooms),Fans,118.7,36.21,1432.71,97.3,888.28,Yes
+578,3,PG Flat,2024-01,2024,4,Shared Refrigerator,Refrigeration,50.9,15.52,614.36,41.7,135.16,No
+579,3,PG Flat,2024-01,2024,5,Water Geyser,Heating,90.5,27.59,1092.34,74.2,0.0,No
+580,3,PG Flat,2024-01,2024,7,Wi-Fi Router (Dual Band),Always-On,22.6,6.9,272.78,18.5,0.0,No
+581,3,PG Flat,2024-01,2024,8,Study LED Lights (x4),Lighting,22.6,6.9,272.78,18.5,0.0,No
+582,3,PG Flat,2024-01,2024,6,Common TV,Entertainment,22.6,6.9,272.78,18.5,0.0,No
+583,3,PG Flat,2024-02,2024,2,Ceiling Fans (x4 Rooms),Fans,108.5,36.21,1252.09,89.0,776.3,Yes
+584,3,PG Flat,2024-02,2024,4,Shared Refrigerator,Refrigeration,46.5,15.52,536.61,38.1,118.05,No
+585,3,PG Flat,2024-02,2024,5,Water Geyser,Heating,82.7,27.59,954.36,67.8,0.0,No
+586,3,PG Flat,2024-02,2024,7,Wi-Fi Router (Dual Band),Always-On,20.7,6.9,238.88,17.0,0.0,No
+587,3,PG Flat,2024-02,2024,8,Study LED Lights (x4),Lighting,20.7,6.9,238.88,17.0,0.0,No
+588,3,PG Flat,2024-02,2024,6,Common TV,Entertainment,20.7,6.9,238.88,17.0,0.0,No
+589,3,PG Flat,2024-03,2024,2,Ceiling Fans (x4 Rooms),Fans,236.9,46.46,3342.66,194.3,2072.45,Yes
+590,3,PG Flat,2024-03,2024,4,Shared Refrigerator,Refrigeration,101.5,19.91,1432.16,83.2,315.08,Yes
+591,3,PG Flat,2024-03,2024,5,Water Geyser,Heating,36.1,7.08,509.37,29.6,0.0,No
+592,3,PG Flat,2024-03,2024,7,Wi-Fi Router (Dual Band),Always-On,45.1,8.85,636.36,37.0,0.0,No
+593,3,PG Flat,2024-03,2024,8,Study LED Lights (x4),Lighting,45.1,8.85,636.36,37.0,0.0,No
+594,3,PG Flat,2024-03,2024,6,Common TV,Entertainment,45.1,8.85,636.36,37.0,0.0,No
+595,3,PG Flat,2024-04,2024,2,Ceiling Fans (x4 Rooms),Fans,215.2,46.46,2950.39,176.5,1829.24,Yes
+596,3,PG Flat,2024-04,2024,4,Shared Refrigerator,Refrigeration,92.2,19.91,1264.06,75.6,278.09,Yes
+597,3,PG Flat,2024-04,2024,5,Water Geyser,Heating,32.8,7.08,449.69,26.9,0.0,No
+598,3,PG Flat,2024-04,2024,7,Wi-Fi Router (Dual Band),Always-On,41.0,8.85,562.11,33.6,0.0,No
+599,3,PG Flat,2024-04,2024,8,Study LED Lights (x4),Lighting,41.0,8.85,562.11,33.6,0.0,No
+600,3,PG Flat,2024-04,2024,6,Common TV,Entertainment,41.0,8.85,562.11,33.6,0.0,No
+601,3,PG Flat,2024-05,2024,2,Ceiling Fans (x4 Rooms),Fans,229.7,46.46,3206.61,188.4,1988.1,Yes
+602,3,PG Flat,2024-05,2024,4,Shared Refrigerator,Refrigeration,98.4,19.91,1373.66,80.7,302.21,Yes
+603,3,PG Flat,2024-05,2024,5,Water Geyser,Heating,35.0,7.08,488.6,28.7,0.0,No
+604,3,PG Flat,2024-05,2024,7,Wi-Fi Router (Dual Band),Always-On,43.8,8.85,611.45,35.9,0.0,No
+605,3,PG Flat,2024-05,2024,8,Study LED Lights (x4),Lighting,43.8,8.85,611.45,35.9,0.0,No
+606,3,PG Flat,2024-05,2024,6,Common TV,Entertainment,43.8,8.85,611.45,35.9,0.0,No
+607,3,PG Flat,2024-06,2024,2,Ceiling Fans (x4 Rooms),Fans,214.1,46.46,2931.03,175.6,1817.24,Yes
+608,3,PG Flat,2024-06,2024,4,Shared Refrigerator,Refrigeration,91.8,19.91,1256.74,75.3,276.48,Yes
+609,3,PG Flat,2024-06,2024,5,Water Geyser,Heating,32.6,7.08,446.29,26.7,0.0,No
+610,3,PG Flat,2024-06,2024,7,Wi-Fi Router (Dual Band),Always-On,40.8,8.85,558.55,33.5,0.0,No
+611,3,PG Flat,2024-06,2024,8,Study LED Lights (x4),Lighting,40.8,8.85,558.55,33.5,0.0,No
+612,3,PG Flat,2024-06,2024,6,Common TV,Entertainment,40.8,8.85,558.55,33.5,0.0,No
+613,3,PG Flat,2024-07,2024,2,Ceiling Fans (x4 Rooms),Fans,170.8,46.46,2164.04,140.1,1341.7,Yes
+614,3,PG Flat,2024-07,2024,4,Shared Refrigerator,Refrigeration,73.2,19.91,927.44,60.0,204.04,Yes
+615,3,PG Flat,2024-07,2024,5,Water Geyser,Heating,26.0,7.08,329.42,21.3,0.0,No
+616,3,PG Flat,2024-07,2024,7,Wi-Fi Router (Dual Band),Always-On,32.5,8.85,411.77,26.6,0.0,No
+617,3,PG Flat,2024-07,2024,8,Study LED Lights (x4),Lighting,32.5,8.85,411.77,26.6,0.0,No
+618,3,PG Flat,2024-07,2024,6,Common TV,Entertainment,32.5,8.85,411.77,26.6,0.0,No
+619,3,PG Flat,2024-08,2024,2,Ceiling Fans (x4 Rooms),Fans,162.8,46.46,2023.6,133.5,1254.63,Yes
+620,3,PG Flat,2024-08,2024,4,Shared Refrigerator,Refrigeration,69.8,19.91,867.61,57.2,190.87,Yes
+621,3,PG Flat,2024-08,2024,5,Water Geyser,Heating,24.8,7.08,308.26,20.3,0.0,No
+622,3,PG Flat,2024-08,2024,7,Wi-Fi Router (Dual Band),Always-On,31.0,8.85,385.33,25.4,0.0,No
+623,3,PG Flat,2024-08,2024,8,Study LED Lights (x4),Lighting,31.0,8.85,385.33,25.4,0.0,No
+624,3,PG Flat,2024-08,2024,6,Common TV,Entertainment,31.0,8.85,385.33,25.4,0.0,No
+625,3,PG Flat,2024-09,2024,2,Ceiling Fans (x4 Rooms),Fans,158.2,46.46,1942.7,129.7,1204.47,Yes
+626,3,PG Flat,2024-09,2024,4,Shared Refrigerator,Refrigeration,67.8,19.91,832.58,55.6,183.17,Yes
+627,3,PG Flat,2024-09,2024,5,Water Geyser,Heating,24.1,7.08,295.95,19.8,0.0,No
+628,3,PG Flat,2024-09,2024,7,Wi-Fi Router (Dual Band),Always-On,30.1,8.85,369.63,24.7,0.0,No
+629,3,PG Flat,2024-09,2024,8,Study LED Lights (x4),Lighting,30.1,8.85,369.63,24.7,0.0,No
+630,3,PG Flat,2024-09,2024,6,Common TV,Entertainment,30.1,8.85,369.63,24.7,0.0,No
+631,3,PG Flat,2024-10,2024,2,Ceiling Fans (x4 Rooms),Fans,150.1,46.46,1798.2,123.1,1114.88,Yes
+632,3,PG Flat,2024-10,2024,4,Shared Refrigerator,Refrigeration,64.3,19.91,770.31,52.7,169.47,Yes
+633,3,PG Flat,2024-10,2024,5,Water Geyser,Heating,22.9,7.08,274.34,18.8,0.0,No
+634,3,PG Flat,2024-10,2024,7,Wi-Fi Router (Dual Band),Always-On,28.6,8.85,342.63,23.5,0.0,No
+635,3,PG Flat,2024-10,2024,8,Study LED Lights (x4),Lighting,28.6,8.85,342.63,23.5,0.0,No
+636,3,PG Flat,2024-10,2024,6,Common TV,Entertainment,28.6,8.85,342.63,23.5,0.0,No
+637,3,PG Flat,2024-11,2024,2,Ceiling Fans (x4 Rooms),Fans,122.1,36.21,1492.06,100.1,925.08,Yes
+638,3,PG Flat,2024-11,2024,4,Shared Refrigerator,Refrigeration,52.3,15.52,639.11,42.9,140.6,No
+639,3,PG Flat,2024-11,2024,5,Water Geyser,Heating,93.0,27.59,1136.46,76.3,0.0,No
+640,3,PG Flat,2024-11,2024,7,Wi-Fi Router (Dual Band),Always-On,23.2,6.9,283.5,19.0,0.0,No
+641,3,PG Flat,2024-11,2024,8,Study LED Lights (x4),Lighting,23.2,6.9,283.5,19.0,0.0,No
+642,3,PG Flat,2024-11,2024,6,Common TV,Entertainment,23.2,6.9,283.5,19.0,0.0,No
+643,3,PG Flat,2024-12,2024,2,Ceiling Fans (x4 Rooms),Fans,108.9,36.21,1258.88,89.3,780.51,Yes
+644,3,PG Flat,2024-12,2024,4,Shared Refrigerator,Refrigeration,46.7,15.52,539.85,38.3,118.77,No
+645,3,PG Flat,2024-12,2024,5,Water Geyser,Heating,83.0,27.59,959.48,68.1,0.0,No
+646,3,PG Flat,2024-12,2024,7,Wi-Fi Router (Dual Band),Always-On,20.8,6.9,240.45,17.1,0.0,No
+647,3,PG Flat,2024-12,2024,8,Study LED Lights (x4),Lighting,20.8,6.9,240.45,17.1,0.0,No
+648,3,PG Flat,2024-12,2024,6,Common TV,Entertainment,20.8,6.9,240.45,17.1,0.0,No
+649,3,PG Flat,2025-01,2025,2,Ceiling Fans (x4 Rooms),Fans,121.4,36.21,1479.87,99.5,917.52,Yes
+650,3,PG Flat,2025-01,2025,4,Shared Refrigerator,Refrigeration,52.0,15.52,633.88,42.6,139.45,No
+651,3,PG Flat,2025-01,2025,5,Water Geyser,Heating,92.5,27.59,1127.58,75.8,0.0,No
+652,3,PG Flat,2025-01,2025,7,Wi-Fi Router (Dual Band),Always-On,23.1,6.9,281.59,18.9,0.0,No
+653,3,PG Flat,2025-01,2025,8,Study LED Lights (x4),Lighting,23.1,6.9,281.59,18.9,0.0,No
+654,3,PG Flat,2025-01,2025,6,Common TV,Entertainment,23.1,6.9,281.59,18.9,0.0,No
+655,3,PG Flat,2025-02,2025,2,Ceiling Fans (x4 Rooms),Fans,110.5,36.21,1287.33,90.6,798.14,Yes
+656,3,PG Flat,2025-02,2025,4,Shared Refrigerator,Refrigeration,47.4,15.52,552.21,38.9,121.49,No
+657,3,PG Flat,2025-02,2025,5,Water Geyser,Heating,84.2,27.59,980.93,69.0,0.0,No
+658,3,PG Flat,2025-02,2025,7,Wi-Fi Router (Dual Band),Always-On,21.0,6.9,244.65,17.2,0.0,No
+659,3,PG Flat,2025-02,2025,8,Study LED Lights (x4),Lighting,21.0,6.9,244.65,17.2,0.0,No
+660,3,PG Flat,2025-02,2025,6,Common TV,Entertainment,21.0,6.9,244.65,17.2,0.0,No
+661,3,PG Flat,2025-03,2025,2,Ceiling Fans (x4 Rooms),Fans,233.0,46.46,3266.66,191.1,2025.33,Yes
+662,3,PG Flat,2025-03,2025,4,Shared Refrigerator,Refrigeration,99.9,19.91,1400.6,81.9,308.13,Yes
+663,3,PG Flat,2025-03,2025,5,Water Geyser,Heating,35.5,7.08,497.71,29.1,0.0,No
+664,3,PG Flat,2025-03,2025,7,Wi-Fi Router (Dual Band),Always-On,44.4,8.85,622.49,36.4,0.0,No
+665,3,PG Flat,2025-03,2025,8,Study LED Lights (x4),Lighting,44.4,8.85,622.49,36.4,0.0,No
+666,3,PG Flat,2025-03,2025,6,Common TV,Entertainment,44.4,8.85,622.49,36.4,0.0,No
+667,3,PG Flat,2025-04,2025,2,Ceiling Fans (x4 Rooms),Fans,227.3,46.46,3164.02,186.4,1961.69,Yes
+668,3,PG Flat,2025-04,2025,4,Shared Refrigerator,Refrigeration,97.4,19.91,1355.81,79.9,298.28,Yes
+669,3,PG Flat,2025-04,2025,5,Water Geyser,Heating,34.6,7.08,481.63,28.4,0.0,No
+670,3,PG Flat,2025-04,2025,7,Wi-Fi Router (Dual Band),Always-On,43.3,8.85,602.74,35.5,0.0,No
+671,3,PG Flat,2025-04,2025,8,Study LED Lights (x4),Lighting,43.3,8.85,602.74,35.5,0.0,No
+672,3,PG Flat,2025-04,2025,6,Common TV,Entertainment,43.3,8.85,602.74,35.5,0.0,No
+673,3,PG Flat,2025-05,2025,2,Ceiling Fans (x4 Rooms),Fans,236.0,46.46,3325.24,193.5,2061.65,Yes
+674,3,PG Flat,2025-05,2025,4,Shared Refrigerator,Refrigeration,101.2,19.91,1425.91,83.0,313.7,Yes
+675,3,PG Flat,2025-05,2025,5,Water Geyser,Heating,36.0,7.08,507.24,29.5,0.0,No
+676,3,PG Flat,2025-05,2025,7,Wi-Fi Router (Dual Band),Always-On,45.0,8.85,634.05,36.9,0.0,No
+677,3,PG Flat,2025-05,2025,8,Study LED Lights (x4),Lighting,45.0,8.85,634.05,36.9,0.0,No
+678,3,PG Flat,2025-05,2025,6,Common TV,Entertainment,45.0,8.85,634.05,36.9,0.0,No
+679,3,PG Flat,2025-06,2025,2,Ceiling Fans (x4 Rooms),Fans,236.6,46.46,3338.43,194.0,2069.83,Yes
+680,3,PG Flat,2025-06,2025,4,Shared Refrigerator,Refrigeration,101.4,19.91,1430.75,83.1,314.76,Yes
+681,3,PG Flat,2025-06,2025,5,Water Geyser,Heating,36.1,7.08,509.37,29.6,0.0,No
+682,3,PG Flat,2025-06,2025,7,Wi-Fi Router (Dual Band),Always-On,45.1,8.85,636.36,37.0,0.0,No
+683,3,PG Flat,2025-06,2025,8,Study LED Lights (x4),Lighting,45.1,8.85,636.36,37.0,0.0,No
+684,3,PG Flat,2025-06,2025,6,Common TV,Entertainment,45.1,8.85,636.36,37.0,0.0,No
+685,3,PG Flat,2025-07,2025,2,Ceiling Fans (x4 Rooms),Fans,164.9,46.46,2059.6,135.2,1276.95,Yes
+686,3,PG Flat,2025-07,2025,4,Shared Refrigerator,Refrigeration,70.7,19.91,883.04,58.0,194.27,Yes
+687,3,PG Flat,2025-07,2025,5,Water Geyser,Heating,25.1,7.08,313.5,20.6,0.0,No
+688,3,PG Flat,2025-07,2025,7,Wi-Fi Router (Dual Band),Always-On,31.4,8.85,392.19,25.7,0.0,No
+689,3,PG Flat,2025-07,2025,8,Study LED Lights (x4),Lighting,31.4,8.85,392.19,25.7,0.0,No
+690,3,PG Flat,2025-07,2025,6,Common TV,Entertainment,31.4,8.85,392.19,25.7,0.0,No
+691,3,PG Flat,2025-08,2025,2,Ceiling Fans (x4 Rooms),Fans,160.5,46.46,1982.17,131.6,1228.95,Yes
+692,3,PG Flat,2025-08,2025,4,Shared Refrigerator,Refrigeration,68.8,19.91,849.68,56.4,186.93,Yes
+693,3,PG Flat,2025-08,2025,5,Water Geyser,Heating,24.5,7.08,302.57,20.1,0.0,No
+694,3,PG Flat,2025-08,2025,7,Wi-Fi Router (Dual Band),Always-On,30.6,8.85,377.91,25.1,0.0,No
+695,3,PG Flat,2025-08,2025,8,Study LED Lights (x4),Lighting,30.6,8.85,377.91,25.1,0.0,No
+696,3,PG Flat,2025-08,2025,6,Common TV,Entertainment,30.6,8.85,377.91,25.1,0.0,No
+697,3,PG Flat,2025-09,2025,2,Ceiling Fans (x4 Rooms),Fans,164.1,46.46,2046.33,134.6,1268.72,Yes
+698,3,PG Flat,2025-09,2025,4,Shared Refrigerator,Refrigeration,70.3,19.91,876.64,57.6,192.86,Yes
+699,3,PG Flat,2025-09,2025,5,Water Geyser,Heating,25.0,7.08,311.75,20.5,0.0,No
+700,3,PG Flat,2025-09,2025,7,Wi-Fi Router (Dual Band),Always-On,31.3,8.85,390.31,25.7,0.0,No
+701,3,PG Flat,2025-09,2025,8,Study LED Lights (x4),Lighting,31.3,8.85,390.31,25.7,0.0,No
+702,3,PG Flat,2025-09,2025,6,Common TV,Entertainment,31.3,8.85,390.31,25.7,0.0,No
+703,3,PG Flat,2025-10,2025,2,Ceiling Fans (x4 Rooms),Fans,156.2,46.46,1907.2,128.1,1182.46,Yes
+704,3,PG Flat,2025-10,2025,4,Shared Refrigerator,Refrigeration,66.9,19.91,816.85,54.9,179.71,Yes
+705,3,PG Flat,2025-10,2025,5,Water Geyser,Heating,23.8,7.08,290.6,19.5,0.0,No
+706,3,PG Flat,2025-10,2025,7,Wi-Fi Router (Dual Band),Always-On,29.8,8.85,363.86,24.4,0.0,No
+707,3,PG Flat,2025-10,2025,8,Study LED Lights (x4),Lighting,29.8,8.85,363.86,24.4,0.0,No
+708,3,PG Flat,2025-10,2025,6,Common TV,Entertainment,29.8,8.85,363.86,24.4,0.0,No
+709,3,PG Flat,2025-11,2025,2,Ceiling Fans (x4 Rooms),Fans,121.3,36.21,1478.65,99.5,916.76,Yes
+710,3,PG Flat,2025-11,2025,4,Shared Refrigerator,Refrigeration,52.0,15.52,633.88,42.6,139.45,No
+711,3,PG Flat,2025-11,2025,5,Water Geyser,Heating,92.4,27.59,1126.36,75.8,0.0,No
+712,3,PG Flat,2025-11,2025,7,Wi-Fi Router (Dual Band),Always-On,23.1,6.9,281.59,18.9,0.0,No
+713,3,PG Flat,2025-11,2025,8,Study LED Lights (x4),Lighting,23.1,6.9,281.59,18.9,0.0,No
+714,3,PG Flat,2025-11,2025,6,Common TV,Entertainment,23.1,6.9,281.59,18.9,0.0,No
+715,3,PG Flat,2025-12,2025,2,Ceiling Fans (x4 Rooms),Fans,110.2,36.21,1281.63,90.4,794.61,Yes
+716,3,PG Flat,2025-12,2025,4,Shared Refrigerator,Refrigeration,47.2,15.52,548.94,38.7,120.77,No
+717,3,PG Flat,2025-12,2025,5,Water Geyser,Heating,83.9,27.59,975.76,68.8,0.0,No
+718,3,PG Flat,2025-12,2025,7,Wi-Fi Router (Dual Band),Always-On,21.0,6.9,244.23,17.2,0.0,No
+719,3,PG Flat,2025-12,2025,8,Study LED Lights (x4),Lighting,21.0,6.9,244.23,17.2,0.0,No
+720,3,PG Flat,2025-12,2025,6,Common TV,Entertainment,21.0,6.9,244.23,17.2,0.0,No
+721,4,1BHK,2023-01,2023,4,Refrigerator,Refrigeration,34.7,38.0,299.46,28.5,65.88,No
+722,4,1BHK,2023-01,2023,2,Ceiling Fan,Fans,29.2,32.0,252.0,23.9,156.24,Yes
+723,4,1BHK,2023-01,2023,6,Smart TV,Entertainment,11.0,12.0,94.93,9.0,0.0,No
+724,4,1BHK,2023-01,2023,8,LED Lights,Lighting,9.1,10.0,78.53,7.5,0.0,No
+725,4,1BHK,2023-01,2023,7,Wi-Fi Router,Always-On,7.3,8.0,63.0,6.0,0.0,No
+726,4,1BHK,2023-02,2023,4,Refrigerator,Refrigeration,31.8,38.0,279.2,26.1,61.42,No
+727,4,1BHK,2023-02,2023,2,Ceiling Fan,Fans,26.8,32.0,235.3,22.0,145.89,No
+728,4,1BHK,2023-02,2023,6,Smart TV,Entertainment,10.0,12.0,87.8,8.2,0.0,No
+729,4,1BHK,2023-02,2023,8,LED Lights,Lighting,8.4,10.0,73.75,6.9,0.0,No
+730,4,1BHK,2023-02,2023,7,Wi-Fi Router,Always-On,6.7,8.0,58.83,5.5,0.0,No
+731,4,1BHK,2023-03,2023,4,Refrigerator,Refrigeration,50.8,38.0,490.22,41.7,107.85,No
+732,4,1BHK,2023-03,2023,2,Ceiling Fan,Fans,42.8,32.0,413.02,35.1,256.07,Yes
+733,4,1BHK,2023-03,2023,6,Smart TV,Entertainment,16.1,12.0,155.37,13.2,0.0,No
+734,4,1BHK,2023-03,2023,8,LED Lights,Lighting,13.4,10.0,129.31,11.0,0.0,No
+735,4,1BHK,2023-03,2023,7,Wi-Fi Router,Always-On,10.7,8.0,103.25,8.8,0.0,No
+736,4,1BHK,2023-04,2023,4,Refrigerator,Refrigeration,51.0,38.0,492.66,41.8,108.39,No
+737,4,1BHK,2023-04,2023,2,Ceiling Fan,Fans,43.0,32.0,415.38,35.3,257.54,Yes
+738,4,1BHK,2023-04,2023,6,Smart TV,Entertainment,16.1,12.0,155.53,13.2,0.0,No
+739,4,1BHK,2023-04,2023,8,LED Lights,Lighting,13.4,10.0,129.44,11.0,0.0,No
+740,4,1BHK,2023-04,2023,7,Wi-Fi Router,Always-On,10.7,8.0,103.36,8.8,0.0,No
+741,4,1BHK,2023-05,2023,4,Refrigerator,Refrigeration,47.0,38.0,440.39,38.5,96.89,No
+742,4,1BHK,2023-05,2023,2,Ceiling Fan,Fans,39.6,32.0,371.05,32.5,230.05,Yes
+743,4,1BHK,2023-05,2023,6,Smart TV,Entertainment,14.8,12.0,138.68,12.1,0.0,No
+744,4,1BHK,2023-05,2023,8,LED Lights,Lighting,12.4,10.0,116.19,10.2,0.0,No
+745,4,1BHK,2023-05,2023,7,Wi-Fi Router,Always-On,9.9,8.0,92.76,8.1,0.0,No
+746,4,1BHK,2023-06,2023,4,Refrigerator,Refrigeration,48.3,38.0,457.4,39.6,100.63,No
+747,4,1BHK,2023-06,2023,2,Ceiling Fan,Fans,40.7,32.0,385.43,33.4,238.97,Yes
+748,4,1BHK,2023-06,2023,6,Smart TV,Entertainment,15.3,12.0,144.89,12.5,0.0,No
+749,4,1BHK,2023-06,2023,8,LED Lights,Lighting,12.7,10.0,120.27,10.4,0.0,No
+750,4,1BHK,2023-06,2023,7,Wi-Fi Router,Always-On,10.2,8.0,96.59,8.4,0.0,No
+751,4,1BHK,2023-07,2023,4,Refrigerator,Refrigeration,36.6,38.0,312.93,30.0,68.84,No
+752,4,1BHK,2023-07,2023,2,Ceiling Fan,Fans,30.8,32.0,263.34,25.3,163.27,Yes
+753,4,1BHK,2023-07,2023,6,Smart TV,Entertainment,11.5,12.0,98.33,9.4,0.0,No
+754,4,1BHK,2023-07,2023,8,LED Lights,Lighting,9.6,10.0,82.08,7.9,0.0,No
+755,4,1BHK,2023-07,2023,7,Wi-Fi Router,Always-On,7.7,8.0,65.84,6.3,0.0,No
+756,4,1BHK,2023-08,2023,4,Refrigerator,Refrigeration,33.2,38.0,289.17,27.2,63.62,No
+757,4,1BHK,2023-08,2023,2,Ceiling Fan,Fans,28.0,32.0,243.88,23.0,151.21,Yes
+758,4,1BHK,2023-08,2023,6,Smart TV,Entertainment,10.5,12.0,91.46,8.6,0.0,No
+759,4,1BHK,2023-08,2023,8,LED Lights,Lighting,8.7,10.0,75.78,7.1,0.0,No
+760,4,1BHK,2023-08,2023,7,Wi-Fi Router,Always-On,7.0,8.0,60.97,5.7,0.0,No
+761,4,1BHK,2023-09,2023,4,Refrigerator,Refrigeration,37.4,38.0,318.65,30.7,70.1,No
+762,4,1BHK,2023-09,2023,2,Ceiling Fan,Fans,31.5,32.0,268.38,25.8,166.4,Yes
+763,4,1BHK,2023-09,2023,6,Smart TV,Entertainment,11.8,12.0,100.54,9.7,0.0,No
+764,4,1BHK,2023-09,2023,8,LED Lights,Lighting,9.8,10.0,83.5,8.0,0.0,No
+765,4,1BHK,2023-09,2023,7,Wi-Fi Router,Always-On,7.9,8.0,67.31,6.5,0.0,No
+766,4,1BHK,2023-10,2023,4,Refrigerator,Refrigeration,31.6,38.0,277.76,25.9,61.11,No
+767,4,1BHK,2023-10,2023,2,Ceiling Fan,Fans,26.6,32.0,233.81,21.8,144.96,No
+768,4,1BHK,2023-10,2023,6,Smart TV,Entertainment,10.0,12.0,87.9,8.2,0.0,No
+769,4,1BHK,2023-10,2023,8,LED Lights,Lighting,8.3,10.0,72.96,6.8,0.0,No
+770,4,1BHK,2023-10,2023,7,Wi-Fi Router,Always-On,6.7,8.0,58.89,5.5,0.0,No
+771,4,1BHK,2023-11,2023,4,Refrigerator,Refrigeration,33.1,38.0,288.3,27.1,63.43,No
+772,4,1BHK,2023-11,2023,2,Ceiling Fan,Fans,27.9,32.0,243.01,22.9,150.67,Yes
+773,4,1BHK,2023-11,2023,6,Smart TV,Entertainment,10.5,12.0,91.46,8.6,0.0,No
+774,4,1BHK,2023-11,2023,8,LED Lights,Lighting,8.7,10.0,75.78,7.1,0.0,No
+775,4,1BHK,2023-11,2023,7,Wi-Fi Router,Always-On,7.0,8.0,60.97,5.7,0.0,No
+776,4,1BHK,2023-12,2023,4,Refrigerator,Refrigeration,32.3,38.0,282.62,26.5,62.18,No
+777,4,1BHK,2023-12,2023,2,Ceiling Fan,Fans,27.2,32.0,238.0,22.3,147.56,No
+778,4,1BHK,2023-12,2023,6,Smart TV,Entertainment,10.2,12.0,89.25,8.4,0.0,No
+779,4,1BHK,2023-12,2023,8,LED Lights,Lighting,8.5,10.0,74.38,7.0,0.0,No
+780,4,1BHK,2023-12,2023,7,Wi-Fi Router,Always-On,6.8,8.0,59.5,5.6,0.0,No
+781,4,1BHK,2024-01,2024,4,Refrigerator,Refrigeration,33.3,38.0,289.71,27.3,63.74,No
+782,4,1BHK,2024-01,2024,2,Ceiling Fan,Fans,28.1,32.0,244.47,23.0,151.57,Yes
+783,4,1BHK,2024-01,2024,6,Smart TV,Entertainment,10.5,12.0,91.35,8.6,0.0,No
+784,4,1BHK,2024-01,2024,8,LED Lights,Lighting,8.8,10.0,76.56,7.2,0.0,No
+785,4,1BHK,2024-01,2024,7,Wi-Fi Router,Always-On,7.0,8.0,60.9,5.7,0.0,No
+786,4,1BHK,2024-02,2024,4,Refrigerator,Refrigeration,33.1,38.0,288.3,27.1,63.43,No
+787,4,1BHK,2024-02,2024,2,Ceiling Fan,Fans,27.9,32.0,243.01,22.9,150.67,Yes
+788,4,1BHK,2024-02,2024,6,Smart TV,Entertainment,10.5,12.0,91.46,8.6,0.0,No
+789,4,1BHK,2024-02,2024,8,LED Lights,Lighting,8.7,10.0,75.78,7.1,0.0,No
+790,4,1BHK,2024-02,2024,7,Wi-Fi Router,Always-On,7.0,8.0,60.97,5.7,0.0,No
+791,4,1BHK,2024-03,2024,4,Refrigerator,Refrigeration,45.0,38.0,414.45,36.9,91.18,No
+792,4,1BHK,2024-03,2024,2,Ceiling Fan,Fans,37.9,32.0,349.06,31.1,216.42,Yes
+793,4,1BHK,2024-03,2024,6,Smart TV,Entertainment,14.2,12.0,130.78,11.6,0.0,No
+794,4,1BHK,2024-03,2024,8,LED Lights,Lighting,11.9,10.0,109.6,9.8,0.0,No
+795,4,1BHK,2024-03,2024,7,Wi-Fi Router,Always-On,9.5,8.0,87.5,7.8,0.0,No
+796,4,1BHK,2024-04,2024,4,Refrigerator,Refrigeration,50.0,38.0,479.5,41.0,105.49,No
+797,4,1BHK,2024-04,2024,2,Ceiling Fan,Fans,42.1,32.0,403.74,34.5,250.32,Yes
+798,4,1BHK,2024-04,2024,6,Smart TV,Entertainment,15.8,12.0,151.52,13.0,0.0,No
+799,4,1BHK,2024-04,2024,8,LED Lights,Lighting,13.2,10.0,126.59,10.8,0.0,No
+800,4,1BHK,2024-04,2024,7,Wi-Fi Router,Always-On,10.5,8.0,100.69,8.6,0.0,No
+801,4,1BHK,2024-05,2024,4,Refrigerator,Refrigeration,49.7,38.0,475.63,40.8,104.64,No
+802,4,1BHK,2024-05,2024,2,Ceiling Fan,Fans,41.8,32.0,400.03,34.3,248.02,Yes
+803,4,1BHK,2024-05,2024,6,Smart TV,Entertainment,15.7,12.0,150.25,12.9,0.0,No
+804,4,1BHK,2024-05,2024,8,LED Lights,Lighting,13.1,10.0,125.37,10.7,0.0,No
+805,4,1BHK,2024-05,2024,7,Wi-Fi Router,Always-On,10.5,8.0,100.48,8.6,0.0,No
+806,4,1BHK,2024-06,2024,4,Refrigerator,Refrigeration,47.0,38.0,440.39,38.5,96.89,No
+807,4,1BHK,2024-06,2024,2,Ceiling Fan,Fans,39.6,32.0,371.05,32.5,230.05,Yes
+808,4,1BHK,2024-06,2024,6,Smart TV,Entertainment,14.9,12.0,139.61,12.2,0.0,No
+809,4,1BHK,2024-06,2024,8,LED Lights,Lighting,12.4,10.0,116.19,10.2,0.0,No
+810,4,1BHK,2024-06,2024,7,Wi-Fi Router,Always-On,9.9,8.0,92.76,8.1,0.0,No
+811,4,1BHK,2024-07,2024,4,Refrigerator,Refrigeration,37.8,38.0,321.3,31.0,70.69,No
+812,4,1BHK,2024-07,2024,2,Ceiling Fan,Fans,31.8,32.0,270.3,26.1,167.59,Yes
+813,4,1BHK,2024-07,2024,6,Smart TV,Entertainment,11.9,12.0,101.15,9.8,0.0,No
+814,4,1BHK,2024-07,2024,8,LED Lights,Lighting,10.0,10.0,85.0,8.2,0.0,No
+815,4,1BHK,2024-07,2024,7,Wi-Fi Router,Always-On,8.0,8.0,68.0,6.6,0.0,No
+816,4,1BHK,2024-08,2024,4,Refrigerator,Refrigeration,37.0,38.0,315.61,30.3,69.43,No
+817,4,1BHK,2024-08,2024,2,Ceiling Fan,Fans,31.2,32.0,266.14,25.6,165.01,Yes
+818,4,1BHK,2024-08,2024,6,Smart TV,Entertainment,11.7,12.0,99.8,9.6,0.0,No
+819,4,1BHK,2024-08,2024,8,LED Lights,Lighting,9.7,10.0,82.74,8.0,0.0,No
+820,4,1BHK,2024-08,2024,7,Wi-Fi Router,Always-On,7.8,8.0,66.53,6.4,0.0,No
+821,4,1BHK,2024-09,2024,4,Refrigerator,Refrigeration,36.8,38.0,314.27,30.2,69.14,No
+822,4,1BHK,2024-09,2024,2,Ceiling Fan,Fans,31.0,32.0,264.74,25.4,164.14,Yes
+823,4,1BHK,2024-09,2024,6,Smart TV,Entertainment,11.6,12.0,99.06,9.5,0.0,No
+824,4,1BHK,2024-09,2024,8,LED Lights,Lighting,9.7,10.0,82.84,8.0,0.0,No
+825,4,1BHK,2024-09,2024,7,Wi-Fi Router,Always-On,7.7,8.0,65.76,6.3,0.0,No
+826,4,1BHK,2024-10,2024,4,Refrigerator,Refrigeration,30.9,38.0,272.85,25.3,60.03,No
+827,4,1BHK,2024-10,2024,2,Ceiling Fan,Fans,26.0,32.0,229.58,21.3,142.34,No
+828,4,1BHK,2024-10,2024,6,Smart TV,Entertainment,9.8,12.0,86.53,8.0,0.0,No
+829,4,1BHK,2024-10,2024,8,LED Lights,Lighting,8.1,10.0,71.52,6.6,0.0,No
+830,4,1BHK,2024-10,2024,7,Wi-Fi Router,Always-On,6.5,8.0,57.4,5.3,0.0,No
+831,4,1BHK,2024-11,2024,4,Refrigerator,Refrigeration,31.0,38.0,273.73,25.4,60.22,No
+832,4,1BHK,2024-11,2024,2,Ceiling Fan,Fans,26.1,32.0,230.46,21.4,142.89,No
+833,4,1BHK,2024-11,2024,6,Smart TV,Entertainment,9.8,12.0,86.53,8.0,0.0,No
+834,4,1BHK,2024-11,2024,8,LED Lights,Lighting,8.2,10.0,72.41,6.7,0.0,No
+835,4,1BHK,2024-11,2024,7,Wi-Fi Router,Always-On,6.5,8.0,57.4,5.3,0.0,No
+836,4,1BHK,2024-12,2024,4,Refrigerator,Refrigeration,30.1,38.0,267.29,24.7,58.8,No
+837,4,1BHK,2024-12,2024,2,Ceiling Fan,Fans,25.3,32.0,224.66,20.7,139.29,No
+838,4,1BHK,2024-12,2024,6,Smart TV,Entertainment,9.5,12.0,84.36,7.8,0.0,No
+839,4,1BHK,2024-12,2024,8,LED Lights,Lighting,7.9,10.0,70.15,6.5,0.0,No
+840,4,1BHK,2024-12,2024,7,Wi-Fi Router,Always-On,6.3,8.0,55.94,5.2,0.0,No
+841,4,1BHK,2025-01,2025,4,Refrigerator,Refrigeration,30.7,38.0,271.39,25.2,59.71,No
+842,4,1BHK,2025-01,2025,2,Ceiling Fan,Fans,25.9,32.0,228.96,21.2,141.96,No
+843,4,1BHK,2025-01,2025,6,Smart TV,Entertainment,9.7,12.0,85.75,8.0,0.0,No
+844,4,1BHK,2025-01,2025,8,LED Lights,Lighting,8.1,10.0,71.6,6.6,0.0,No
+845,4,1BHK,2025-01,2025,7,Wi-Fi Router,Always-On,6.5,8.0,57.46,5.3,0.0,No
+846,4,1BHK,2025-02,2025,4,Refrigerator,Refrigeration,31.0,38.0,273.73,25.4,60.22,No
+847,4,1BHK,2025-02,2025,2,Ceiling Fan,Fans,26.1,32.0,230.46,21.4,142.89,No
+848,4,1BHK,2025-02,2025,6,Smart TV,Entertainment,9.8,12.0,86.53,8.0,0.0,No
+849,4,1BHK,2025-02,2025,8,LED Lights,Lighting,8.2,10.0,72.41,6.7,0.0,No
+850,4,1BHK,2025-02,2025,7,Wi-Fi Router,Always-On,6.5,8.0,57.4,5.3,0.0,No
+851,4,1BHK,2025-03,2025,4,Refrigerator,Refrigeration,49.4,38.0,471.77,40.5,103.79,No
+852,4,1BHK,2025-03,2025,2,Ceiling Fan,Fans,41.6,32.0,397.28,34.1,246.31,Yes
+853,4,1BHK,2025-03,2025,6,Smart TV,Entertainment,15.6,12.0,148.98,12.8,0.0,No
+854,4,1BHK,2025-03,2025,8,LED Lights,Lighting,13.0,10.0,124.15,10.7,0.0,No
+855,4,1BHK,2025-03,2025,7,Wi-Fi Router,Always-On,10.4,8.0,99.32,8.5,0.0,No
+856,4,1BHK,2025-04,2025,4,Refrigerator,Refrigeration,46.9,38.0,438.98,38.5,96.58,No
+857,4,1BHK,2025-04,2025,2,Ceiling Fan,Fans,39.5,32.0,369.72,32.4,229.23,Yes
+858,4,1BHK,2025-04,2025,6,Smart TV,Entertainment,14.8,12.0,138.53,12.1,0.0,No
+859,4,1BHK,2025-04,2025,8,LED Lights,Lighting,12.4,10.0,116.06,10.2,0.0,No
+860,4,1BHK,2025-04,2025,7,Wi-Fi Router,Always-On,9.9,8.0,92.66,8.1,0.0,No
+861,4,1BHK,2025-05,2025,4,Refrigerator,Refrigeration,47.7,38.0,449.33,39.1,98.85,No
+862,4,1BHK,2025-05,2025,2,Ceiling Fan,Fans,40.1,32.0,377.74,32.9,234.2,Yes
+863,4,1BHK,2025-05,2025,6,Smart TV,Entertainment,15.0,12.0,141.3,12.3,0.0,No
+864,4,1BHK,2025-05,2025,8,LED Lights,Lighting,12.5,10.0,117.75,10.2,0.0,No
+865,4,1BHK,2025-05,2025,7,Wi-Fi Router,Always-On,10.0,8.0,94.2,8.2,0.0,No
+866,4,1BHK,2025-06,2025,4,Refrigerator,Refrigeration,44.6,38.0,408.98,36.6,89.98,No
+867,4,1BHK,2025-06,2025,2,Ceiling Fan,Fans,37.6,32.0,344.79,30.8,213.77,Yes
+868,4,1BHK,2025-06,2025,6,Smart TV,Entertainment,14.1,12.0,129.3,11.6,0.0,No
+869,4,1BHK,2025-06,2025,8,LED Lights,Lighting,11.7,10.0,107.29,9.6,0.0,No
+870,4,1BHK,2025-06,2025,7,Wi-Fi Router,Always-On,9.4,8.0,86.2,7.7,0.0,No
+871,4,1BHK,2025-07,2025,4,Refrigerator,Refrigeration,36.3,38.0,310.73,29.8,68.36,No
+872,4,1BHK,2025-07,2025,2,Ceiling Fan,Fans,30.6,32.0,261.94,25.1,162.4,Yes
+873,4,1BHK,2025-07,2025,6,Smart TV,Entertainment,11.5,12.0,98.44,9.4,0.0,No
+874,4,1BHK,2025-07,2025,8,LED Lights,Lighting,9.6,10.0,82.18,7.9,0.0,No
+875,4,1BHK,2025-07,2025,7,Wi-Fi Router,Always-On,7.6,8.0,65.06,6.2,0.0,No
+876,4,1BHK,2025-08,2025,4,Refrigerator,Refrigeration,37.6,38.0,319.98,30.8,70.4,No
+877,4,1BHK,2025-08,2025,2,Ceiling Fan,Fans,31.6,32.0,268.92,25.9,166.73,Yes
+878,4,1BHK,2025-08,2025,6,Smart TV,Entertainment,11.9,12.0,101.27,9.8,0.0,No
+879,4,1BHK,2025-08,2025,8,LED Lights,Lighting,9.9,10.0,84.25,8.1,0.0,No
+880,4,1BHK,2025-08,2025,7,Wi-Fi Router,Always-On,7.9,8.0,67.23,6.5,0.0,No
+881,4,1BHK,2025-09,2025,4,Refrigerator,Refrigeration,38.4,38.0,327.94,31.5,72.15,No
+882,4,1BHK,2025-09,2025,2,Ceiling Fan,Fans,32.3,32.0,275.84,26.5,171.02,Yes
+883,4,1BHK,2025-09,2025,6,Smart TV,Entertainment,12.1,12.0,103.33,9.9,0.0,No
+884,4,1BHK,2025-09,2025,8,LED Lights,Lighting,10.1,10.0,86.25,8.3,0.0,No
+885,4,1BHK,2025-09,2025,7,Wi-Fi Router,Always-On,8.1,8.0,69.17,6.6,0.0,No
+886,4,1BHK,2025-10,2025,4,Refrigerator,Refrigeration,32.0,38.0,280.64,26.2,61.74,No
+887,4,1BHK,2025-10,2025,2,Ceiling Fan,Fans,27.0,32.0,236.79,22.1,146.81,No
+888,4,1BHK,2025-10,2025,6,Smart TV,Entertainment,10.1,12.0,88.58,8.3,0.0,No
+889,4,1BHK,2025-10,2025,8,LED Lights,Lighting,8.4,10.0,73.67,6.9,0.0,No
+890,4,1BHK,2025-10,2025,7,Wi-Fi Router,Always-On,6.7,8.0,58.76,5.5,0.0,No
+891,4,1BHK,2025-11,2025,4,Refrigerator,Refrigeration,32.0,38.0,280.64,26.2,61.74,No
+892,4,1BHK,2025-11,2025,2,Ceiling Fan,Fans,27.0,32.0,236.79,22.1,146.81,No
+893,4,1BHK,2025-11,2025,6,Smart TV,Entertainment,10.1,12.0,88.58,8.3,0.0,No
+894,4,1BHK,2025-11,2025,8,LED Lights,Lighting,8.4,10.0,73.67,6.9,0.0,No
+895,4,1BHK,2025-11,2025,7,Wi-Fi Router,Always-On,6.7,8.0,58.76,5.5,0.0,No
+896,4,1BHK,2025-12,2025,4,Refrigerator,Refrigeration,31.2,38.0,275.18,25.6,60.54,No
+897,4,1BHK,2025-12,2025,2,Ceiling Fan,Fans,26.2,32.0,231.08,21.5,143.27,No
+898,4,1BHK,2025-12,2025,6,Smart TV,Entertainment,9.8,12.0,86.44,8.0,0.0,No
+899,4,1BHK,2025-12,2025,8,LED Lights,Lighting,8.2,10.0,72.32,6.7,0.0,No
+900,4,1BHK,2025-12,2025,7,Wi-Fi Router,Always-On,6.6,8.0,58.21,5.4,0.0,No

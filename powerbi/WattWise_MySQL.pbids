@@ -1,0 +1,12 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "server": "localhost:3306",
+        "database": "wattwise"
+      },
+      "connectionType": "MySql"
+    }
+  ]
+}

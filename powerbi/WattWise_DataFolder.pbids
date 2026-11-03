@@ -1,0 +1,11 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "path": "D:\\TPDS 3 PROJECT\\powerbi\\data"
+      },
+      "connectionType": "Folder"
+    }
+  ]
+}

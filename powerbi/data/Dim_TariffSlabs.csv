@@ -1,0 +1,5 @@
+SlabOrder,SlabRange,MinUnits,MaxUnits,EnergyRate_INR,WheelingRate_INR,FACRate_INR,BaseRate_INR,DutyPercent,TotalMarginalRate_INR,Description,TariffOrder
+1,0 - 100 units,0,100,4.41,1.28,0.35,6.04,16.0,7.01,Subsidized Lifeline Slab,MERC Case No. 226 of 2022
+2,101 - 300 units,101,300,9.64,1.28,0.35,11.27,16.0,13.07,Standard Consumption (+118% Jump),MERC Case No. 226 of 2022
+3,301 - 500 units,301,500,13.61,1.28,0.35,15.24,16.0,17.68,High Consumption Slab (+41% Jump),MERC Case No. 226 of 2022
+4,> 500 units,501,99999,15.57,1.28,0.35,17.2,16.0,19.95,Peak Luxury Slab,MERC Case No. 226 of 2022

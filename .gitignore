@@ -36,3 +36,6 @@ logs/
 Thumbs.db
 .vscode/
 .idea/
+
+# Nested clone
+wattWise_updated/

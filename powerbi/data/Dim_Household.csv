@@ -1,0 +1,5 @@
+HouseholdID,HouseholdName,Archetype,City,SanctionedLoad_kW,Phase,Occupants,SquareFootage,HasAC,TariffCategory
+1,Sharma Residence,2BHK,Nagpur,3.0,Single Phase,4,1050,Yes (Split AC),LT-I Residential
+2,Verma Villa,3BHK,Pune,5.0,Three Phase,5,1850,Yes (2 Split ACs),LT-I Residential
+3,Students PG Flat,PG Flat,Nagpur,3.0,Single Phase,6,1200,No (High Fan/Laptop Load),LT-I Residential
+4,Kulkarni Compact,1BHK,Nashik,1.5,Single Phase,2,600,No (Ceiling Fan/Fridge),LT-I Residential

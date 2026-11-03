@@ -1,0 +1,200 @@
+// ==============================================================================
+// WattWise: Maharashtra Electricity Bill Explainer, Auditor & Analytics
+// TPDS 3 Course Project - Module 1 (Power BI & Advanced Analytics)
+// Production DAX Measures Suite (MSEDCL LT-I Residential Tariff Order)
+// ==============================================================================
+
+// ------------------------------------------------------------------------------
+// 1. Core Financial & Billed Amount Measures
+// ------------------------------------------------------------------------------
+
+Total Billed (INR) = 
+SUM(Fact_MonthlyBilling[ActualBilledAmount_INR])
+
+Total Recomputed True Bill (INR) = 
+SUM(Fact_MonthlyBilling[RecomputedTrueAmount_INR])
+
+Net Overcharge Variance (INR) = 
+[Total Billed (INR)] - [Total Recomputed True Bill (INR)]
+
+Total Energy Charge (INR) = 
+SUM(Fact_MonthlyBilling[EnergyCharge_INR])
+
+Total Wheeling Charge (INR) = 
+SUM(Fact_MonthlyBilling[WheelingCharge_INR])
+
+Total FAC Charge (INR) = 
+SUM(Fact_MonthlyBilling[FACCharge_INR])
+
+Total Electricity Duty (INR) = 
+SUM(Fact_MonthlyBilling[ElectricityDuty_INR])
+
+Total Fixed Charge (INR) = 
+SUM(Fact_MonthlyBilling[FixedCharge_INR])
+
+
+// ------------------------------------------------------------------------------
+// 2. Audit & Tariff Compliance Measures (MERC Case No. 226 of 2022)
+// ------------------------------------------------------------------------------
+
+Total Bills Audited = 
+COUNTROWS(Fact_MonthlyBilling)
+
+Mismatched Bills Count = 
+CALCULATE(
+    COUNTROWS(Fact_MonthlyBilling),
+    Fact_MonthlyBilling[MismatchFlag] = 1
+)
+
+Audit Mismatch Rate (%) = 
+DIVIDE([Mismatched Bills Count], [Total Bills Audited], 0) * 100
+
+Average Discrepancy When Flagged (INR) = 
+AVERAGEX(
+    FILTER(Fact_MonthlyBilling, Fact_MonthlyBilling[MismatchFlag] = 1),
+    ABS(Fact_MonthlyBilling[Variance_INR])
+)
+
+Maximum Single Month Overcharge (INR) = 
+MAXX(Fact_MonthlyBilling, Fact_MonthlyBilling[Variance_INR])
+
+Discrepancy Severity Index = 
+DIVIDE([Net Overcharge Variance (INR)], [Total Recomputed True Bill (INR)], 0) * 100
+
+
+// ------------------------------------------------------------------------------
+// 3. Consumption & Slab Dynamics Measures
+// ------------------------------------------------------------------------------
+
+Total Consumption (kWh) = 
+SUM(Fact_MonthlyBilling[UnitsBilled_kWh])
+
+Average Monthly Consumption (kWh) = 
+AVERAGE(Fact_MonthlyBilling[UnitsBilled_kWh])
+
+Average Effective Rate (INR/kWh) = 
+DIVIDE([Total Recomputed True Bill (INR)], [Total Consumption (kWh)], 0)
+
+Slab 1 (0-100) Bills Count = 
+CALCULATE(
+    COUNTROWS(Fact_MonthlyBilling),
+    Fact_MonthlyBilling[UnitsBilled_kWh] <= 100
+)
+
+Slab 2 (101-300) Bills Count = 
+CALCULATE(
+    COUNTROWS(Fact_MonthlyBilling),
+    Fact_MonthlyBilling[UnitsBilled_kWh] > 100 && Fact_MonthlyBilling[UnitsBilled_kWh] <= 300
+)
+
+Slab 3 (301-500) Bills Count = 
+CALCULATE(
+    COUNTROWS(Fact_MonthlyBilling),
+    Fact_MonthlyBilling[UnitsBilled_kWh] > 300 && Fact_MonthlyBilling[UnitsBilled_kWh] <= 500
+)
+
+Slab 4 (>500) Bills Count = 
+CALCULATE(
+    COUNTROWS(Fact_MonthlyBilling),
+    Fact_MonthlyBilling[UnitsBilled_kWh] > 500
+)
+
+Slab Breach High Risk Bills = 
+CALCULATE(
+    COUNTROWS(Fact_MonthlyBilling),
+    SEARCH("High Risk", Fact_MonthlyBilling[SlabBreachRisk], 1, 0) > 0
+)
+
+
+// ------------------------------------------------------------------------------
+// 4. Appliance Disaggregation & Energy Efficiency Measures
+// ------------------------------------------------------------------------------
+
+Total Appliance Consumption (kWh) = 
+SUM(Fact_ApplianceBreakdown[Consumption_kWh])
+
+Appliance Consumption Share (%) = 
+DIVIDE(
+    SUM(Fact_ApplianceBreakdown[Consumption_kWh]),
+    CALCULATE(SUM(Fact_ApplianceBreakdown[Consumption_kWh]), ALL(Fact_ApplianceBreakdown[ApplianceName])),
+    0
+) * 100
+
+Total BLDC & 5-Star Savings Potential (INR) = 
+SUM(Fact_ApplianceBreakdown[PotentialSavingWith5Star_INR])
+
+Annualized Energy Efficiency Savings (INR) = 
+[Total BLDC & 5-Star Savings Potential (INR)] * (12 / DISTINCTCOUNT(Fact_ApplianceBreakdown[BillMonth]))
+
+Energy Vampire Count = 
+CALCULATE(
+    DISTINCTCOUNT(Fact_ApplianceBreakdown[ApplianceName]),
+    Fact_ApplianceBreakdown[IsEnergyVampire] = "Yes"
+)
+
+Total Carbon Footprint (kg CO2) = 
+[Total Consumption (kWh)] * 0.82
+
+Total Carbon Footprint (Tonnes CO2) = 
+DIVIDE([Total Carbon Footprint (kg CO2)], 1000, 0)
+
+Carbon Reduction Potential (Tonnes CO2) = 
+DIVIDE([Total BLDC & 5-Star Savings Potential (INR)] / 10.5 * 0.82, 1000, 0)
+
+
+// ------------------------------------------------------------------------------
+// 5. Daily Meter Reading & Anomaly Spike Measures
+// ------------------------------------------------------------------------------
+
+Total Daily Units (kWh) = 
+SUM(Fact_DailyReadings[DailyUnits_kWh])
+
+Average Daily Consumption (kWh) = 
+AVERAGE(Fact_DailyReadings[DailyUnits_kWh])
+
+Total Anomaly Spikes Detected = 
+CALCULATE(
+    COUNTROWS(Fact_DailyReadings),
+    Fact_DailyReadings[IsAnomalySpike] = "Spike Flagged"
+)
+
+Anomaly Spike Ratio (%) = 
+DIVIDE([Total Anomaly Spikes Detected], COUNTROWS(Fact_DailyReadings), 0) * 100
+
+Peak Daily Consumption (kWh) = 
+MAXX(Fact_DailyReadings, Fact_DailyReadings[DailyUnits_kWh])
+
+Weekend vs Weekday Load Ratio = 
+DIVIDE(
+    CALCULATE(AVERAGE(Fact_DailyReadings[DailyUnits_kWh]), Fact_DailyReadings[IsWeekend] = "Weekend"),
+    CALCULATE(AVERAGE(Fact_DailyReadings[DailyUnits_kWh]), Fact_DailyReadings[IsWeekend] = "Weekday"),
+    1
+)
+
+
+// ------------------------------------------------------------------------------
+// 6. Grid Anomaly & Theft Benchmark Measures (Kaggle SGCC)
+// ------------------------------------------------------------------------------
+
+Average Active Power (Honest Meters) = 
+CALCULATE(
+    AVERAGE(Fact_GridTheftBenchmark[ActivePower_kWh]),
+    Fact_GridTheftBenchmark[TheftFlag] = 0
+)
+
+Average Active Power (Tampered Meters) = 
+CALCULATE(
+    AVERAGE(Fact_GridTheftBenchmark[ActivePower_kWh]),
+    Fact_GridTheftBenchmark[TheftFlag] = 1
+)
+
+Under-reporting Deficit (%) = 
+DIVIDE(
+    [Average Active Power (Honest Meters)] - [Average Active Power (Tampered Meters)],
+    [Average Active Power (Honest Meters)],
+    0
+) * 100
+
+Average Theft Probability Score = 
+AVERAGE(Fact_GridTheftBenchmark[TheftProbabilityScore])
+
