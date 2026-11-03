@@ -24,6 +24,16 @@ services:
       timeout: 5s
       retries: 5
 
+  mosquitto:
+    image: eclipse-mosquitto:2
+    container_name: wattwise_mosquitto
+    restart: always
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./iot/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf
+      - mosquitto_data:/mosquitto/data
+
   api:
     build:
       context: ./server
@@ -37,11 +47,14 @@ services:
       DB_PASSWORD: wattwise_user_pw
       DB_NAME: wattwise
       JWT_SECRET: wattwise_tpds3_production_secret
+      MQTT_URL: mqtt://mosquitto:1883
     ports:
       - "4000:4000"
     depends_on:
       mysql:
         condition: service_healthy
+      mosquitto:
+        condition: service_started
 
   web:
     build:
@@ -56,4 +69,4 @@ services:
 
 volumes:
   mysql_data:
-
+  mosquitto_data:

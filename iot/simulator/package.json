@@ -1,0 +1,12 @@
+{
+  "name": "wattwise-iot-simulator",
+  "version": "1.0.0",
+  "description": "WattWise Smart Plug IoT Telemetry Simulator",
+  "main": "simulate.js",
+  "scripts": {
+    "start": "node simulate.js"
+  },
+  "dependencies": {
+    "mqtt": "^5.16.1"
+  }
+}

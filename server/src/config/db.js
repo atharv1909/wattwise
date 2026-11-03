@@ -13,8 +13,8 @@ let useMysql = false;
 // In-Memory Seed Data Fallback Store
 const memoryStore = {
   users: [
-    { id: 1, name: 'Aditya Sharma', email: 'demo@wattwise.in', role: 'user' },
-    { id: 2, name: 'Course Evaluator (Admin)', email: 'admin@wattwise.in', role: 'admin' }
+    { id: 1, name: 'Aditya Sharma', email: 'demo@wattwise.in', password_hash: '$2a$10$78e9LdQe5PjGjQ5d3d4.uePZ.rXN8H9K8Dk6v8H7I.aYJ.Nq4M8S.', role: 'user' },
+    { id: 2, name: 'Course Evaluator (Admin)', email: 'admin@wattwise.in', password_hash: '$2a$10$78e9LdQe5PjGjQ5d3d4.uePZ.rXN8H9K8Dk6v8H7I.aYJ.Nq4M8S.', role: 'admin' }
   ],
   households: [
     { id: 1, user_id: 1, name: 'Sharma Residence (2BHK, Nagpur)', tariff_id: 1, sanctioned_load_kw: 3.0, billing_day: 1, archetype: '2BHK' },
@@ -92,6 +92,54 @@ const memoryStore = {
     { reading_date: '2024-10-18', daily_units: 10.5 },
     { reading_date: '2024-10-19', daily_units: 9.7 },
     { reading_date: '2024-10-20', daily_units: 9.5 }
+  ],
+  devices: [
+    { id: 1, household_id: 1, appliance_id: 1, kind: 'smart_plug', name: 'Plug-AC-Master', token_hash: 'demo_token_001', last_seen: null, is_active: true },
+    { id: 2, household_id: 1, appliance_id: 4, kind: 'smart_plug', name: 'Plug-Fridge', token_hash: 'demo_token_002', last_seen: null, is_active: true }
+  ],
+  powerSamples: [],
+  usageEvents: [],
+  splitGroups: [
+    {
+      id: 1,
+      household_id: 1,
+      name: 'Sharma Family Split',
+      split_method: 'by_room',
+      members: [
+        { user_id: 1, room_id: 1, name: 'Master Bedroom' },
+        { user_id: 1, room_id: 2, name: 'Living Room' },
+        { user_id: 1, room_id: 3, name: 'Kitchen' }
+      ]
+    }
+  ],
+  alerts: [
+    {
+      id: 1,
+      household_id: 1,
+      alert_type: 'slab_breach_warning',
+      title: 'Approaching Slab 2 (100 kWh)',
+      message: 'You have consumed 88 kWh this cycle. Reaching 101 kWh increases your unit rate from ₹4.41 to ₹9.64/unit (2.18x jump).',
+      is_read: false,
+      created_at: new Date(Date.now() - 3600000 * 24).toISOString()
+    },
+    {
+      id: 2,
+      household_id: 1,
+      alert_type: 'unusual_spike',
+      title: 'High Standby Power Detected',
+      message: 'Appliance drawing 25W during idle hours (02:00 - 05:00 AM). Check AC standby or entertainment system.',
+      is_read: false,
+      created_at: new Date(Date.now() - 3600000 * 12).toISOString()
+    },
+    {
+      id: 3,
+      household_id: 1,
+      alert_type: 'bill_mismatch',
+      title: 'July 2024 Bill Mismatch Detected',
+      message: 'Discom billed ₹3,550 for 210 units, but deterministic calculation shows ₹2,504. Potential ₹1,046 overcharge.',
+      is_read: true,
+      created_at: new Date(Date.now() - 3600000 * 72).toISOString()
+    }
   ]
 };
 

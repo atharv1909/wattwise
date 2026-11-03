@@ -226,6 +226,7 @@ export default function DashboardPage() {
             </div>
 
             <HomeSimulator3D
+              archetype={household?.household?.archetype || '2BHK'}
               appliances={household?.appliances || []}
               onSelectAppliance={(app) => console.log('Selected:', app)}
             />

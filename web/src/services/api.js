@@ -1,4 +1,5 @@
-const API_BASE = '/api/v1';
+const BACKEND_URL = (import.meta.env && import.meta.env.VITE_API_URL) ? import.meta.env.VITE_API_URL.replace(/\/$/, '') : '';
+const API_BASE = `${BACKEND_URL}/api/v1`;
 
 export async function fetchTariffInfo() {
   const res = await fetch(`${API_BASE}/tariffs/msedcl`);
@@ -74,3 +75,68 @@ export async function fetchAdminStats() {
   return res.json();
 }
 
+export async function fetchDevices(householdId = 1) {
+  const res = await fetch(`${API_BASE}/devices/${householdId}`);
+  return res.json();
+}
+
+export async function registerDevice(data) {
+  const res = await fetch(`${API_BASE}/devices`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  });
+  return res.json();
+}
+
+export async function deleteDevice(id) {
+  const res = await fetch(`${API_BASE}/devices/${id}`, { method: 'DELETE' });
+  return res.json();
+}
+
+export async function fetchAlerts(householdId = 1) {
+  const res = await fetch(`${API_BASE}/alerts/${householdId}`);
+  return res.json();
+}
+
+export async function markAlertRead(id) {
+  const res = await fetch(`${API_BASE}/alerts/${id}/read`, { method: 'PATCH' });
+  return res.json();
+}
+
+export async function createAlert(data) {
+  const res = await fetch(`${API_BASE}/alerts`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  });
+  return res.json();
+}
+
+export async function fetchSplitGroups(householdId = 1) {
+  const res = await fetch(`${API_BASE}/split/groups/${householdId}`);
+  return res.json();
+}
+
+export async function createSplitGroup(data) {
+  const res = await fetch(`${API_BASE}/split/groups`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  });
+  return res.json();
+}
+
+export async function calculateSplit(groupId) {
+  const res = await fetch(`${API_BASE}/split/groups/${groupId}/calculate`);
+  return res.json();
+}
+
+export async function createHousehold(data) {
+  const res = await fetch(`${API_BASE}/households`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  });
+  return res.json();
+}

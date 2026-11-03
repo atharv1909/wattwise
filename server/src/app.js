@@ -10,6 +10,9 @@ const whatifRoutes = require('./routes/whatif');
 const readingsRoutes = require('./routes/readings');
 const copilotRoutes = require('./routes/copilot');
 const adminRoutes = require('./routes/admin');
+const deviceRoutes = require('./routes/devices');
+const alertRoutes = require('./routes/alerts');
+const splitRoutes = require('./routes/split');
 
 const app = express();
 
@@ -26,6 +29,9 @@ app.use('/api/v1/whatif', whatifRoutes);
 app.use('/api/v1/readings', readingsRoutes);
 app.use('/api/v1/copilot', copilotRoutes);
 app.use('/api/v1/admin', adminRoutes);
+app.use('/api/v1/devices', deviceRoutes);
+app.use('/api/v1/alerts', alertRoutes);
+app.use('/api/v1/split', splitRoutes);
 
 // Health check
 app.get('/health', (req, res) => {
