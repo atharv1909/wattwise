@@ -9,6 +9,10 @@ coverage/
 # Production Build
 dist/
 build/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
 
 # Environment Variables
 .env

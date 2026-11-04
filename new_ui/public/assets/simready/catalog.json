@@ -1,0 +1,421 @@
+{
+  "source": "NVIDIA SimReady assets (nvidia/simready-assets), web-ready GLB conversions by codepawl/simready-glb",
+  "license": "CC-BY-4.0",
+  "items": {
+    "tv": {
+      "asset": "TV_a01",
+      "file": "tv.glb",
+      "min": [
+        1.056794909712333e-05,
+        -0.344883134466439,
+        -0.6359590291976929
+      ],
+      "max": [
+        0.10622229497047189,
+        0.754975816112786,
+        0.6360583901405334
+      ],
+      "triangles": 136861,
+      "bytes": 1059980
+    },
+    "refrigerator": {
+      "asset": "appliance_refrigerator_a01",
+      "file": "refrigerator.glb",
+      "min": [
+        -0.3671501792570995,
+        -0.42723777890205383,
+        -0.4532314084650926
+      ],
+      "max": [
+        0.36858441979743506,
+        1.7350496649742126,
+        0.4873892508627824
+      ],
+      "triangles": 232329,
+      "bytes": 2496260
+    },
+    "ceiling_fan": {
+      "asset": "ventilation_ceilingFan_hvls_a01",
+      "file": "ceiling_fan.glb",
+      "min": [
+        -3.048320446033468,
+        -1.2960421539413107,
+        -2.912919282913208
+      ],
+      "max": [
+        2.5494698620033165,
+        1.2985767818557394,
+        2.93099045753479
+      ],
+      "triangles": 381600,
+      "bytes": 3820372
+    },
+    "pedestal_fan": {
+      "asset": "climate_shopFan_pedestal_a01",
+      "file": "pedestal_fan.glb",
+      "min": [
+        -0.22609142466453347,
+        -0.19099999219179153,
+        -0.22604673950076376
+      ],
+      "max": [
+        0.22609142466453347,
+        1.3142072036862373,
+        0.22602563945651327
+      ],
+      "triangles": 1053880,
+      "bytes": 5482232
+    },
+    "ceiling_light": {
+      "asset": "lamp_ceiling_1m_rectangle_a01",
+      "file": "ceiling_light.glb",
+      "min": [
+        -0.4999999403953552,
+        -0.29998323864964044,
+        -0.19997269127413458
+      ],
+      "max": [
+        0.5000007748603821,
+        0.30054119772938287,
+        0.1999726614718122
+      ],
+      "triangles": 26892,
+      "bytes": 243284
+    },
+    "kitchen_light": {
+      "asset": "lamp_ceiling_50cm_square_a01",
+      "file": "kitchen_light.glb",
+      "min": [
+        -0.25000038743019104,
+        -0.30001393451622316,
+        -0.20001089458147497
+      ],
+      "max": [
+        0.25000038743019104,
+        0.30099033310345,
+        0.2000110882965705
+      ],
+      "triangles": 24308,
+      "bytes": 230280
+    },
+    "bedside_lamp": {
+      "asset": "lamp_table_bedside_a01",
+      "file": "bedside_lamp.glb",
+      "min": [
+        -0.0943900332866774,
+        -0.0005138840287422211,
+        -0.09938895588646705
+      ],
+      "max": [
+        0.10366199771748642,
+        0.37167876958847046,
+        0.09938895588646705
+      ],
+      "triangles": 49166,
+      "bytes": 361076
+    },
+    "sofa": {
+      "asset": "sofa_soft_b01",
+      "file": "sofa.glb",
+      "min": [
+        -0.35508940847504217,
+        0,
+        -0.35581769290463944
+      ],
+      "max": [
+        0.35318086774933416,
+        0.7275429368019104,
+        0.35689328852193375
+      ],
+      "triangles": 45640,
+      "bytes": 443688
+    },
+    "toilet": {
+      "asset": "toilet_a01",
+      "file": "toilet.glb",
+      "min": [
+        -0.350532591342926,
+        -0.002769261598587036,
+        -0.20256276703875511
+      ],
+      "max": [
+        0.3549755811691284,
+        1.0383386313915253,
+        0.20256276703875511
+      ],
+      "triangles": 186043,
+      "bytes": 1153816
+    },
+    "sink": {
+      "asset": "sanitary_sink_wallMounted_a01",
+      "file": "sink.glb",
+      "min": [
+        -0.17323758099394698,
+        -0.056018948554992676,
+        -0.3499999940395355
+      ],
+      "max": [
+        0.34045608733015914,
+        0.5843635228978301,
+        0.3500000238418579
+      ],
+      "triangles": 29030,
+      "bytes": 352600
+    },
+    "mirror": {
+      "asset": "mirror_bathroom_a01",
+      "file": "mirror.glb",
+      "min": [
+        -1.5025602482926503e-06,
+        -0.24998325952427225,
+        -0.3999999165534973
+      ],
+      "max": [
+        0.036132410505583204,
+        0.5012891376866563,
+        0.40000003576278687
+      ],
+      "triangles": 54722,
+      "bytes": 594748
+    },
+    "socket": {
+      "asset": "socket_a01",
+      "file": "socket.glb",
+      "min": [
+        -0.013611739888344673,
+        0.00018392503261566162,
+        -0.03290121321540169
+      ],
+      "max": [
+        0.0040764677482887784,
+        0.10705332458019257,
+        0.032900155232956925
+      ],
+      "triangles": 21116,
+      "bytes": 193560
+    },
+    "alarm_clock": {
+      "asset": "measurement_clock_alarm_a01",
+      "file": "alarm_clock.glb",
+      "min": [
+        -0.0457309083634367,
+        0.00016588262224104255,
+        -0.10625319120076775
+      ],
+      "max": [
+        0.05505884268274512,
+        0.2944681644439697,
+        0.10605545279172539
+      ],
+      "triangles": 88140,
+      "bytes": 693028
+    },
+    "pc_tower": {
+      "asset": "computer_desktop_tower_a01",
+      "file": "pc_tower.glb",
+      "min": [
+        -0.09850699597397847,
+        2.5525842152207545e-06,
+        -0.3119315505027771
+      ],
+      "max": [
+        0.09850701832572026,
+        0.48950235842128176,
+        0.31161314249038696
+      ],
+      "triangles": 85502,
+      "bytes": 1865952
+    },
+    "pc_monitor": {
+      "asset": "computer_monitor_office_a01",
+      "file": "pc_monitor.glb",
+      "min": [
+        -0.2709999978542328,
+        1.358735236489661e-05,
+        -0.0861208905847133
+      ],
+      "max": [
+        0.2709999978542328,
+        0.3941863800319735,
+        0.0861208756835521
+      ],
+      "triangles": 10867,
+      "bytes": 221928
+    },
+    "keyboard": {
+      "asset": "computer_keyboard_a01",
+      "file": "keyboard.glb",
+      "min": [
+        -0.22100000083446503,
+        -2.171426204743837e-06,
+        -0.07165676875392772
+      ],
+      "max": [
+        0.22100000083446503,
+        0.020231600432781282,
+        0.07031686378995754
+      ],
+      "triangles": 27378,
+      "bytes": 221420
+    },
+    "toaster": {
+      "asset": "appliance_toaster_a01",
+      "file": "toaster.glb",
+      "min": [
+        -0.18736279010772705,
+        -0.015403424389660358,
+        -0.07743500773081116
+      ],
+      "max": [
+        0.16659382358193398,
+        0.1790584720396956,
+        0.07745499018797211
+      ],
+      "triangles": 38594,
+      "bytes": 541668
+    },
+    "extractor": {
+      "asset": "appliance_extractor_a01",
+      "file": "extractor.glb",
+      "min": [
+        -0.28071358799934387,
+        -0.005242572687608345,
+        -0.375028039770185
+      ],
+      "max": [
+        0.5064252614974976,
+        0.9947426319122314,
+        0.3750280695725074
+      ],
+      "triangles": 9875,
+      "bytes": 1208708
+    },
+    "blinds": {
+      "asset": "blinds_window_2m_open_a01",
+      "file": "blinds.glb",
+      "min": [
+        -0.027755854842217927,
+        4.7934241592884064e-05,
+        -0.9457407492512895
+      ],
+      "max": [
+        0.02833851259663916,
+        2.5671486854553223,
+        0.946582366835518
+      ],
+      "triangles": 169332,
+      "bytes": 1926504
+    },
+    "pan": {
+      "asset": "kitchenware_pan_a01",
+      "file": "pan.glb",
+      "min": [
+        -0.12965919247568045,
+        0.0008755977633141954,
+        -0.12966258823871613
+      ],
+      "max": [
+        0.12965919247568045,
+        0.04533619130778005,
+        0.301355242729187
+      ],
+      "triangles": 12202,
+      "bytes": 248192
+    },
+    "mug": {
+      "asset": "dishware_mug_coffee_a01",
+      "file": "mug.glb",
+      "min": [
+        -0.08026208728551865,
+        -3.4534256766471927e-06,
+        -0.040499727728829475
+      ],
+      "max": [
+        0.04050000011920929,
+        0.09715682704708078,
+        0.040499727728829475
+      ],
+      "triangles": 11766,
+      "bytes": 125580
+    },
+    "vase": {
+      "asset": "misc_glass_vase_a01",
+      "file": "vase.glb",
+      "min": [
+        -0.04057777362196121,
+        -4.773028194904327e-09,
+        -0.04014388431510353
+      ],
+      "max": [
+        0.04057777362196121,
+        0.203102707862854,
+        0.04014388804039383
+      ],
+      "triangles": 96472,
+      "bytes": 376628
+    },
+    "water_cooler": {
+      "asset": "water_cooler_a01",
+      "file": "water_cooler.glb",
+      "min": [
+        -0.2385795292146573,
+        -0.34598204493522644,
+        -0.25157619832993044
+      ],
+      "max": [
+        0.36856130032614565,
+        2.096578985452652,
+        0.2851681244278003
+      ],
+      "triangles": 94891,
+      "bytes": 1058344
+    },
+    "room_heater": {
+      "asset": "climate_heater_portableElectric_a01",
+      "file": "room_heater.glb",
+      "min": [
+        -0.29986751079559326,
+        0.00023011372438597189,
+        -0.1395442337397999
+      ],
+      "max": [
+        0.20164918899536133,
+        0.4551567431956999,
+        0.13219036167902415
+      ],
+      "triangles": 586836,
+      "bytes": 3927548
+    },
+    "washer": {
+      "asset": "LGElectronics/simready-assets:laundry_wm4000hwa",
+      "file": "washer.glb",
+      "license": "CC-BY-4.0",
+      "convertedFromUSD": true
+    },
+    "air_purifier": {
+      "asset": "LGElectronics/simready-assets:air-purifier_as25gcbz0",
+      "file": "air_purifier.glb",
+      "license": "CC-BY-4.0",
+      "convertedFromUSD": true
+    },
+    "microwave": {
+      "asset": "LGElectronics/simready-assets:cooking_mser1130b",
+      "file": "microwave.glb",
+      "license": "CC-BY-4.0",
+      "convertedFromUSD": true
+    },
+    "gas_range": {
+      "asset": "LGElectronics/simready-assets:cooking_ldgl6924s",
+      "file": "gas_range.glb",
+      "license": "CC-BY-4.0",
+      "convertedFromUSD": true
+    },
+    "laptop": {
+      "asset": "LGElectronics/simready-assets:laptop_16z90tl",
+      "file": "laptop.glb",
+      "license": "CC-BY-4.0",
+      "convertedFromUSD": true
+    }
+  },
+  "lg_source": "LG Electronics SimReady assets, USD->GLB converted locally (usd-core + trimesh)"
+}

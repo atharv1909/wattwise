@@ -273,11 +273,11 @@ print(f"  -> Generated {len(df_sgcc_benchmark)} real benchmark observations from
 print("\n[3/4] Synchronizing genuine real data into MySQL 8.0 `wattwise` database...")
 try:
     conn = pymysql.connect(
-        host="localhost",
-        port=3306,
-        user="wattwise_user",
-        password="wattwise_user_pw",
-        database="wattwise",
+        host=os.environ.get("DB_HOST", "localhost"),
+        port=int(os.environ.get("DB_PORT", 3306)),
+        user=os.environ.get("DB_USER", "your_mysql_username"),
+        password=os.environ.get("DB_PASSWORD", "your_mysql_password"),
+        database=os.environ.get("DB_NAME", "wattwise"),
         autocommit=True
     )
     cursor = conn.cursor()
